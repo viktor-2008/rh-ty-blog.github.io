@@ -29,8 +29,7 @@ github_username:  chipspeak
 
 # Build settings
 theme: minima
-minima: 
-  skin: dark
+
 plugins:
   - jekyll-feed
 

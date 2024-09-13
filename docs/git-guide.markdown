@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Test
-permalink: /test/
+title: Git Guide
+permalink: /git-guide/
 ---
 
 This is a second linked page
