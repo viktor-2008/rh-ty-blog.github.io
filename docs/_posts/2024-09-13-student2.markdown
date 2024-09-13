@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Student 2 Blog"
+date:   2024-09-13 12:58:15 +0100
+categories: jekyll update
+---
+
+This is student 2's blogpost
