@@ -4,33 +4,27 @@ title: Markdown Guide
 permalink: /markdown-guide/
 ---
 
-# Markdown Syntax Guide
-
 Welcome to the **Markdown Syntax Guide**! This guide will walk you through some common Markdown features with examples using the `code snippets` feature.
 
 ---
-
 ## 1. Headings
-
 In Markdown, headings are created using the `#` symbol.
 
 {% highlight markdown %}
-# Heading 1
+## Heading 1
 ### Heading 2
-## Heading 3
+# Heading 3
 {% endhighlight %}
 
 This will render as:
 
-# Heading 1
+## Heading 1
 ### Heading 2
-## Heading 3
+# Heading 3
 
 ---
-
-
 ## 2. Bold and Italic Text
-To make text bold or italic, use ** for bold and * for italic.
+To make text bold or italic, use `**` for bold and `*` for italic.
 
 {% highlight markdown %}
 **This text is bold.**  
@@ -44,11 +38,9 @@ this will render as:
 
 
 ---
-
-
 ## 3. Lists
 Unordered Lists
-Use -, +, or * to create an unordered list.
+Use `-`, `+`, or `*` to create an unordered list.
 
 {% highlight markdown %}
 - Item 1
@@ -82,9 +74,7 @@ This will render as:
 
 
 ---
-
-
-## 1. Links
+## 4. Links
 To create a link, follow the below example's format.
 
 {% highlight markdown %}
@@ -95,8 +85,6 @@ This will render as: [GitHub](https://github.com)
 
 
 ---
-
-
 ## 5. Images
 Images are similar to links. Each link has an "alt text". This is the text that appears when you hover over the image.
 
@@ -110,9 +98,8 @@ The above example (a link to the GitHub Logo) renders as:
 
 
 ---
-
 ## 6. Blockquotes
-Use > to create a blockquote.
+Use `>` to create a blockquote.
 
 {% highlight markdown %}
 > This is a blockquote.
@@ -122,8 +109,10 @@ This will render as:
 
 > This is a blockquote.
 
-## 9. Tables
-Tables are created using pipes | and hyphens - to separate columns and rows.
+
+---
+## 7. Tables
+Tables are created using pipes `|` and hyphens `-` to separate columns and rows.
 
 {% highlight markdown %}
 | Header 1 | Header 2 |
@@ -141,10 +130,8 @@ This renders as:
 
 
 ---
-
-
-## 10. Checkboxes
-You can create checkboxes using - [ ] for an unchecked box and - [x] for a checked box.
+## 8. Checkboxes
+You can create checkboxes using `- [ ]` for an unchecked box and `- [x]` for a checked box.
 
 {% highlight markdown %}
 - [x] Task 1
