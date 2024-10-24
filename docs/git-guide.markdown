@@ -5,13 +5,14 @@ permalink: /git-guide/
 ---
 
 This guide will help you set up your GitHub to work on the Blog site.
+The images are from my own personal version of this repository but apart from the names everything should be the same.
 
 
 ---
 ## Setup
 1. First you will need to set up a GitHub account. This will be carried out with our associates.
    
-2. Once your account is set up, go to [The project repository](https://github.com/chipspeak/chipspeak.github.io).
+2. Once your account is set up, go to [The project repository](https://github.com/rh-ty-blog/rh-ty-blog.github.io).
    
 3. Look for the **"fork"** button in the top right section of the view. See the below image:
 ![fork button](/images/fork-button.png)
