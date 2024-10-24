@@ -23,9 +23,9 @@ title: TY Blogs
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog site for TY students to share their thoughts and experiences based on their week with Red Hat Waterford.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chipspeak.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rh-ty-blog.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  chipspeak
+github_username:  rh-ty-blog
 
 # Build settings
 theme: minima
