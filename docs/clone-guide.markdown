@@ -10,13 +10,13 @@ If you want to take the next step from contributing to this site, and create you
 ---
 ## Creating your repo from our Template
 
-1. Open your webrowser and go to **"https://github.com/<YOUR_GIT_USERNAME>?tab=repositories"** or click your avatar in the top right of the screen if you already have Github open. From the dropdown select **"Repositories"**. See the below image for reference.
+1. Open your webrowser and go to **"https://github.com/YOUR_GIT_USERNAME?tab=repositories"** or click your avatar in the top right of the screen if you already have Github open. From the dropdown select **"Repositories"**. See the below image for reference.
 ![fork button](/images/open-repositories-page.png)
 
 2. Next, click the the green **"New"** button in the top right. You can ignore the fields and simply click **"Import a repository"** as seen in the screenshot.
 ![import a repo](/images/import-repo.png)
 
-3. On the next screen, look for the **"The URL for your source repository"** field. Paste **"https://github.com/rh-ty-blog/rh-ty-blog.github.io.git"** into this field and on the bottom of the page click **"Choose an owner"** and select your account. Finally, name your site with the format: **"<your_git_username>.github.io"**. It **must** be this format. Click **"Begin Import"** to proceed. See the below image for reference if you get stuck.
+3. On the next screen, look for the **"The URL for your source repository"** field. Paste **"https://github.com/rh-ty-blog/rh-ty-blog.github.io.git"** into this field and on the bottom of the page click **"Choose an owner"** and select your account. Finally, name your site with the format: **"YOUR_GIT_USERNAME.github.io"**. It **must** be this format. Click **"Begin Import"** to proceed. See the below image for reference if you get stuck.
 ![import settings](/images/import.png)
 
 4. Once this has been completed Github will take you through some loading screens. Once this has completed return to your repositories page and you should see your new repo.
@@ -30,7 +30,7 @@ If you want to take the next step from contributing to this site, and create you
    
 3. Here you can change **"title"** and **"description"** to whatever you'd like. Be sure to avoid special characters however e.g '*^ etc.
    
-4. You'll need to change **"url"** to match the format: **"https://<your_repo_name>.github.io/"** and **"username"** to match your own.
+4. You'll need to change **"url"** to match the format: **"https://YOUR_REPO_NAME.github.io/"** and **"username"** to match your own.
    
 5. Once you've done this, click the **"commit"** changes button and then the same in the subsequent popup seen below.
 ![commit to main](/images/commit-to-main.png)
@@ -50,7 +50,7 @@ If you want to take the next step from contributing to this site, and create you
 11. Notice that we have a new section on the right side, **"Deployments"** as seen above. Click this and it will take you to a view similar to the one below.
 ![deployments view](/images/deployments-view.png)
 
-12. In the center of this screen you should see a green tick next to **"github-pages"**. Click on the link below this. It should match the URL we manually entered in our config file earlier: **"https://<your_git_username>.github.io"**. Clicking this link will take you to your deployed blog site.
+12. In the center of this screen you should see a green tick next to **"github-pages"**. Click on the link below this. It should match the URL we manually entered in our config file earlier: **"https://YOUR_GIT_USERNAME.github.io"**. Clicking this link will take you to your deployed blog site.
 
 
 ---
