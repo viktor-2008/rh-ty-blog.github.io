@@ -16,10 +16,14 @@ If you want to take the next step from contributing to this site, and create you
 2. Next, click the the green **"New"** button in the top right. You can ignore the fields and simply click **"Import a repository"** as seen in the screenshot.
 ![import a repo](/images/import-repo.png)
 
-3. On the next screen, look for the **"The URL for your source repository"** field. Paste **"https://github.com/rh-ty-blog/rh-ty-blog.github.io.git"** into this field and on the bottom of the page click **"Choose an owner"** and select your account. Finally, name your site with the format: **"YOUR_GIT_USERNAME.github.io"**. It **must** be this format. Click **"Begin Import"** to proceed. See the below image for reference if you get stuck.
+3. On the next screen, look for the **"The URL for your source repository"** field. Paste **"https://github.com/rh-ty-blog/rh-ty-blog.github.io.git"** into this field. 
+   
+4. On the bottom of the page click **"Choose an owner"** and select your account. 
+   
+5. Finally, name your site with the format: **"YOUR_GIT_USERNAME.github.io"**. It **must** be this format. Click **"Begin Import"** to proceed. See the below image for reference if you get stuck.
 ![import settings](/images/import.png)
 
-4. Once this has been completed Github will take you through some loading screens. Once this has completed return to your repositories page and you should see your new repo.
+6. Once this has been completed Github will take you through some loading screens. Once this has completed return to your repositories page and you should see your new repo.
  
 ---
 ## Setting up the site
