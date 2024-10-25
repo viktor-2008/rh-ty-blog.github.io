@@ -71,13 +71,13 @@ If you want to take the next step from contributing to this site, and create you
 ---
 ## Creating a new entry
 
-1. To create a new entry, navigate to **"docs/_posts"** once again.
+* To create a new entry, navigate to **"docs/_posts"** once again.
    
-2. Next to the **"..."** button mentioned earlier you wil see an **"Add file"** dropdown button. Click this and then **"Create new file"**.
+* Next to the **"..."** button mentioned earlier you wil see an **"Add file"** dropdown button. Click this and then **"Create new file"**.
    
-3. The naming structure of your file is **vital** as it plays an important part in the building of the site. The structure must match the following format: **YYYY-MM-DD-name_of_your_entry.markdown**.
+* The naming structure of your file is **vital** as it plays an important part in the building of the site. The structure must match the following format: **YYYY-MM-DD-name_of_your_entry.markdown**.
    
-4. Once you've named the file, paste the below text into the contents area (use the current date but don't adjust the time and ensure the title is wrapped in " ")
+* Once you've named the file, paste the below text into the contents area (use the current date but don't adjust the time and ensure the title is wrapped in " ")
 
 {% highlight markdown %}
 ---
@@ -88,16 +88,16 @@ categories: jekyll update
 ---
 {% endhighlight %}
 
-5. Once you've done the above hit **"commit changes"** and then the same on the subsequent menu, adjusting the commit message as you see fit.
+* Once you've done the above hit **"commit changes"** and then the same on the subsequent menu, adjusting the commit message as you see fit.
 
-6. Return to the main repo page and you can observe the build this has triggered. Once the yellow dot has become a green tick, visit your site again to observe the changes.
+* Return to the main repo page and you can observe the build this has triggered. Once the yellow dot has become a green tick, visit your site again to observe the changes.
 
 ---
 ## Removing the extra pages
 
-1. To remove this guide and the others repeat the above process but for the .markdown files within the **"docs"** directory.
+* To remove this guide and the others repeat the above process but for the .markdown files within the **"docs"** directory.
    
-2. If you wish to refactor them or create new ones the process is also the same but ensure that the following is present in each file (making sure that the permalink matches the file name with the .markdown extension dropped):
+* If you wish to refactor them or create new ones the process is also the same but ensure that the following is present in each file (making sure that the permalink matches the file name with the .markdown extension dropped):
 
 {%highlight markdown %}
 ---
@@ -110,4 +110,4 @@ permalink: /git-guide/
 ---
 ## Additional resources
 
-* [Deeper site creation Guide](https://github.com/rh-ty-blog/rh-ty-blog.github.io)
+* [Deeper site creation Guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
