@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Student 6 Blog"
+title:  "Adam Butler Blog"
 date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---

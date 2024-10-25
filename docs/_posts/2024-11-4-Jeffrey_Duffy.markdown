@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Student 7 Blog"
+title:  "Jeffrey Duffy Blog"
 date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---

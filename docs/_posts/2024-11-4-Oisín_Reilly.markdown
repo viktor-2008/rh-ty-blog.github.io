@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Student 1 Blog"
+title:  "Oisín Reilly Blog"
 date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---

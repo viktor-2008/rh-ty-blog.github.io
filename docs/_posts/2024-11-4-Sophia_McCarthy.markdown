@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Student 8 Blog"
+title:  "Sophia McCarthy Blog"
 date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---
