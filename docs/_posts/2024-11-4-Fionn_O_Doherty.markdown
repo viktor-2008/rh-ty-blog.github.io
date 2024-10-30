@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ## Welcome To Your Blog!
-
+one two three four five six seven eight nine ten
 * The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
 * Feel free to add images too! You need only replace the placeholder image links!
