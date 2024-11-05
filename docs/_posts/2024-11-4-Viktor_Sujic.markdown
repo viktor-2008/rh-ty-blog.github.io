@@ -21,9 +21,10 @@ categories: jekyll update
 
 Mon, Nov 5th, 2024
 -----------------
-I arrived at the building, and we had some time to ourselves until around 9:30 AM. We had some time for ourselvess but I was mostly alone in the canteen.
-during this time I hid in the lounge area and listened to music.
-We came in into the Bulmer Suite and had a small talk with James. We played a famous-person guesing game with pieces of paper taped to our backs.
+I arrived at the building, and we had some time to ourselves until around 9:30 AM. We had some time for ourselvess but I was mostly alone in the canteen. 
+during this time I hid in the lounge area and listened to music and tried out some snacks.
+We came in into the Bolger Suite and had a small talk with James. We played a famous-person guesing game with pieces of paper taped to our backs.
+We introduced ourselves to eachother, and I mentioned that when I was 4 I caught a catfish.
 
 We had a 1.5- 2 hr long break until work started in around 11:00.
 We used this break to hang out in the canteen and play on the Wii. Me and the lads messed around on the pool table.
@@ -32,6 +33,8 @@ We also built a Mr. Potato head. Me, and the other lads in my team showed it off
 We then had a 10 min break where I messed around on the pool table again.
 
 We took our laptops and created our Github Account. We created our forks, through which I'm writing this blog!
+We then had another break until the end of the day. And, as you may have guessed, i messed on the pool table again.
+We left at 5:00pm
 
 ## Tuesday
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
