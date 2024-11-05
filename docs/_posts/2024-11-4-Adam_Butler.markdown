@@ -6,25 +6,42 @@ categories: jekyll update
 ---
 
 ## Welcome To Your Blog!
+My name is Adam Butler and i am attending the TY course at red hats office in Co. Waterford
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
+**_What is Red Hat?_**
+* Red Hat is a open source company mainly focused on software engineering and developing
+* Acquired by IBM July 9th of 2019
+* Red Hat is known or its own open source projects using Linux operating system
 
 
 ## Monday
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
+**Monday Morning**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+We were greeted Monday morning to all the Red Hat staff that were involved in the TY programme, and many of the staff explained to us
+what Red Hat is about and what work they have done and the history of Red Hat.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Staff showed us to our desks and gave us a tour around the office showing us the different teams, conference rooms and facilities
+across the office. Red Hat has lots of liesurely facilities for staff including TV,switch, xbox, pool table and snacks drinks for employees. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+**Monday tasks/activities**
 
+* Guess the celebrity
+* Agile introduction
+* Potato head team task
+
+These were all activities that we did throughout the day that allowed all of us to get to know each other
+but also learn how Red Hats ecosystem works which uses Agile a team based system where teams come together and learn
+how to spot problems and adapt without having fully disregard projects or work. This system provides better work flow
+and allows teams and co-workers to learn from each other and allows small changes to happen instead of massive changes
+without wasting hours of work.
+
+**Staff that worked with us**
+* Gen 
+* Pat
+* David 
+* James
 
 ---
 ## Tuesday
