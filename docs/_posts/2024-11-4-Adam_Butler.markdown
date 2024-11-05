@@ -17,7 +17,12 @@ My name is Adam Butler and i am attending the TY course at red hats office in Co
 ## Monday
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**Monday Morning**.
+**Monday Morning**
+We were greeted Monday morning to all the Red Hat staff that were involved in the TY programme, and many of the staff explained to us
+what Red Hat is about and what work they have done and the history of Red Hat.
+
+Staff showed us to our desks and gave us a tour around the office showing us the different teams, conference rooms and facilities
+across the office. Red Hat has lots of liesurely facilities for staff including TV,switch, xbox, pool table and snacks drinks for employees. 
 
 
 
