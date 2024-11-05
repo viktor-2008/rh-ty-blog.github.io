@@ -13,10 +13,10 @@ categories: jekyll update
 
 ## Monday
 
- On Monday we got a introduction to the office and a tour around showing us their facilities and offices we did a few ice breakers and introduced ourselves here i met James, Jen and Pat
- After we played Mario Kart and explored the area and then at 2 o clock we had a work shop and had to build Mr Potatoe heads where this showed us the consept of "to do,do and done"
- We didnt really use the computers much today other than getting signed in and making a Github account 
- I also found there was alot great snacks and drinks in the kichen all restocked by Becky 
+ On Monday we got a introduction to the office and a tour around showing us their facilities and offices theres a shower and tredmill along with other things. In the morning we did a few ice breakers and introduced ourselves here i met James, Jen, Pat and Dominik. After we played Mario Kart and explored the area and then at 2 o clock we had a work shop and had to build Mr Potato heads where this showed us the consept of "to do,do and done" which was presented to us by David i found this really intresting and it also showed us that we need to check in with the customer to make sure they are satisfied with the things we are working on before we move on. We didnt really use the computers much today other than getting signed in which was this morning and making a Github account which we did later in the day with Pat
+ 
+ ![image](https://github.com/user-attachments/assets/512b726d-5de6-4698-b9f0-c44695a55009)
+
 
 
 
