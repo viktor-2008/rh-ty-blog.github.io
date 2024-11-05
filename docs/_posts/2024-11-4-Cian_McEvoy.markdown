@@ -28,16 +28,15 @@ We were given an office tour, we went all around the office and saw the differen
 ## Tuesday
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Tuesday**.
+**This is what I did on Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+*Today we started our day with a thing where we talk about what we did the day before, about what we liked and what we didn't like and after that we had a small 10 minute break. Right after our break we went and had a mini course on how to code with Pat and learned a few thing like how to create files in our folder.*
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+*Once we were finished with that we went ahead and started our blog on what we had done on Monday and pent 30 minutes on that so we could have it finished fro the day. Once we finished that we went off for our hour long lunch break so me and a few of the lads went down the the nearby deli and got lunch there, we then came back and had a few games of pool and started a tournament that we will be doing for the next few days.*
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+*After our lunch break we went back in for a talk with Seán and Jen about what their expierience in college was like, how much time they spent there and what their course was like. After that we had one last break and came back to a talk about what it's like for women in tech and to see trhat not many people who are in tech are women.*
 
+*At the end of the day I spent 30 minutes adding to my blog for the day to talk about what I did for the day.*
 
 ---
 ## Wednesday
