@@ -13,7 +13,7 @@ categories: jekyll update
 
 **This is what I did on Monday**.
 
-*On monday we met for the first time in the reception area and then we went into our office area to setup our internet and account. 
+*On monday we met for the first time in the reception area of the Waterford Red Hat Facility and then we went into our office area to setup our internet and account on our Laptops. 
 We were given an office tour, we went all around the office and saw the different workspaces where all the fire exits are and where the canteen/games area is.*
 
 *we were then given an introduction talk from James and what we were told the bassics and what were going to be learning and doing for the week*
