@@ -6,17 +6,12 @@ categories: jekyll update
 ---
 
 ## Welcome To Your Blog!
-Cheerios
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-
 
 ## Monday
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
 ## Monday
-So, while we waited for everything to get working, they took us to this room called the Bolger room and gave us a quick intro about the office and what we’d be working on. Then they showed us around the place—like, the rooms we can go to, the kitchen, and the games area with a pool table. Oh, and they said we can have all the free snacks we want, so, obviously, that’s happening.
+On Monday morning, I came in the doors and we gathered in the reception. We were then shown to our desks and had to sign into our laptops. So, while we waited for everything to get working, they took us to this room called the Bolger room and gave us a quick intro about the office and what we’d be working on. Then they showed us around the place—like, the rooms we can go to, the kitchen, and the games area with a pool table. Oh, and they said we can have all the free snacks we want, so, obviously, that’s happening.
 
 Then we did this icebreaker game where they stuck the name of a celebrity on our back, and we had to go around asking questions to figure out who we were. After all that, we got this massive three-hour break where we mostly played pool and even had a Mario Kart tournament (I’m more into pool, though).
 
@@ -25,8 +20,6 @@ Later, we went back to the Bolger room and learned about this thing called agile
 Overall, day one was basically just fun and games, but tomorrow we’re diving into blogs and learning about Fedora.
          
   ![image](https://github.com/user-attachments/assets/8655191a-6af0-450f-918f-93ec8d0c244d)
-
-
 
 
 ---
