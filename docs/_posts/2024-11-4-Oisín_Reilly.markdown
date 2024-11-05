@@ -15,15 +15,16 @@ categories: jekyll update
 ## Monday
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
+On Monday morning I arrived at the Red Hat office in Waterford City. We were introduced to the receptionist Becky who is also the office manager. We were assigned desks and we got our very own laptop for the week. We logged into them and connected them to the office wifi. We then entered the Bolger Suite which is a big meeting room. We sat down at the tables and began doing some ice breakers. The game was every person had a celebritys name taped on their back and you had to ask the other yes/no questions to gather info and to be able to guess whos name you had on your back. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+ We then began the office tour and went around viewing all the different facilities the office has to offer. It connsits of lots of desks for the employees, a big kitchen/lounge area where we familiarized with the snack basket and the drink fridge. There is also a big pool room where me and the lads spend most our free time/breaks.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+ After the tour had finished we visited the bolger suite again and we were familiarized with James and his love of race cars we also had to name one interesting facts about ourselves where I mentioned how much I like woodwork. WE then had some free time where Jen (the main coordinator) took us to do a MarioKart tournament. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+ We then did some more talking with Pat (who is a very chill guy) We then did some work on Agile building with David with Mr Potato heads where we had to please the customers needs even  if they change their needs every two minutes and we then had to stand up and describe and explain the troubles and high points that came with building our potato head.
+
+  
+
 
 
 ---
