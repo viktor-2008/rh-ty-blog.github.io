@@ -5,7 +5,10 @@ date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---
 
+Ty Blog
 
+
+This will be updated Daily all week.
 
 
 ## Monday
@@ -29,13 +32,19 @@ On Monday morning I arrived at the Red Hat office in Waterford City. We were int
 
 This morning i arrived in the office at 9:30 as we had a project to do first thing in the morning. WE spoke about what we did yesterday and did our very first stand up. Afterwards we did some coding called bash on the computers where dominic gave a quick crash course to me and cian before the lesson started. At first i thought code looked like this 001001010 but the bash code looks very different.
 
+Throughout the day we helped ourseleves with the free snacks and drinks from the fridge. I pray they restock the smoothies and the kinder buenos as i always miss to grab one before they are all gone. 
+
  After the bash coding we did some light work on the computers writing in our blogs explaining everything that we did on monday. Toay everyone was a lot more familiar with eachother so i think everone enjoyed themselves.
  
  In the free time we had today me and the lads started a pool tournament , up first was Cian vs Robert which cian won which was a surprise because robert is the third best pool player in the ty group after jack and me. Next up was Jack vs Adam, jack took the early lead but adam got the comeback and won it in the end. In the third game it was me vs alex, i didnt really speak to alex yesterday but he turns out to be a really chill guy. Alex won the pool game and everyone was very happy for him even me.
 
  We had a lunch break then and we walked to the shop to get a lovely hot chicken fillet roll.
 
- After lunch all the ty students spoke about college life and the perks of doing computing in college with Pat, Sean, Dominic, Jen, David. We then had a speakerin speaking about women in tech and she told us her story. She was from ukraine originally and came to ireland because of the war she is now completing her 8th level education in college in computing.
+ After lunch all the ty students spoke about college life and the perks of doing computing in college with Pat, Sean, Dominic, Jen, David. We then had a speakerin speaking about women in tech and she told us her story. She was from ukraine originally and came to ireland because of the war, she is now completing her 8th level education in college in computing.  
+
+  At the end of the day we wrote about the day in our blogs which you are reading now and we met continue on the pool tournament shortly. I look forward to seeing everyone tomorrow.
+
+ 
 
  
 
