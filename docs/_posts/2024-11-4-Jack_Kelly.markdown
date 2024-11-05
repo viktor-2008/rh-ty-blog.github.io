@@ -16,9 +16,13 @@ Cheerios
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
 ## Monday
-On Monday morning, I came in the doors and we gathered in the reception. We were then shown to our desks and had to sign into our laptops. After a while of it not working, we were brought into the bolger room and were giving an introduction on the office space and what we would be working on. Then we were giving a tour on the office space and were shown the rooms we could go to, the kitchen and the games area and pool room. We were told we can eat the free snacks that are there and that is what we are gonna do. We played a game of icereakers where there was a celebrity stuck to ourback and had to ask people questions to find out who we were.    
-      After all that, we had a three hour break where we played pool and had a mario cart tournament. I rather pool. We then went back to the bolger room and learned about agile. the way they showed us was by giving us mr potato heads and giving us a theme to design the heads. My groups theme was an adventurer and it was looking pretty good. After two more short breaks, we were brought into the room where we signed up for a github account and got started with how to edit our blogs for the week. this took about 30 mins and soon we were finishing up early.   
-         The first day was fun and gamesand tomorrow we will be starting our blogs and learning about fedora.
+So, while we waited for everything to get working, they took us to this room called the Bolger room and gave us a quick intro about the office and what we’d be working on. Then they showed us around the place—like, the rooms we can go to, the kitchen, and the games area with a pool table. Oh, and they said we can have all the free snacks we want, so, obviously, that’s happening.
+
+Then we did this icebreaker game where they stuck the name of a celebrity on our back, and we had to go around asking questions to figure out who we were. After all that, we got this massive three-hour break where we mostly played pool and even had a Mario Kart tournament (I’m more into pool, though).
+
+Later, we went back to the Bolger room and learned about this thing called agile. They explained it by giving us Mr. Potato Heads and a theme to design them around. My group got “adventurer” as our theme, and ours was looking pretty solid, honestly. After a couple more breaks, they took us to another room where we made GitHub accounts and learned how to edit our blogs for the week. That only took like half an hour, and we wrapped up a bit early.
+
+Overall, day one was basically just fun and games, but tomorrow we’re diving into blogs and learning about Fedora.
          
   ![image](https://github.com/user-attachments/assets/8655191a-6af0-450f-918f-93ec8d0c244d)
 
@@ -31,7 +35,11 @@ On Monday morning, I came in the doors and we gathered in the reception. We were
 
  ## Tuesday
 
-Today was more of a laptop and coding day than the fun day we had yesterday. We started off the day with a standup where we each have to say what we did yesterday and what we are going to do today. The standup is at half 9 and thn we were straight into coding at 10. We started off with the fedora terminal which was confusing at the start but then we got the hang of it.              At 11 we started working on the first day of the blog and Pat tawt us how to work GitHub and how to edit our blogs. At 1 we went for our lunch and me and the lads went up tot the shop for a bit of grub. After Lunch we had a talk about college life and how Jen, evan and sean got on in there time of college. We took a 10 minute break where we continued the pool tournament that e started at the previous lunch and then we were back in the bolger for te talk about women in coding. The talk didnt last very long as there was no questions and now it is half 3 and im working on the Tuesday section of the blog. I have no clue what we are doing tomorrow so im just gonna have to find out on the whiteboard table tomorrow. I drank too much orange drink today.
+Today was way more about laptops and coding than the fun we had yesterday. We started with this thing called a standup at 9:30, where we all had to say what we did yesterday and what we’re doing today. Right after, we jumped straight into coding at 10. We started with the Fedora terminal, which was kinda confusing at first, but eventually, we got the hang of it.
+
+By 11, we were working on the first day of the blog. Pat showed us how to use GitHub and edit our blog posts. Lunch was at 1, so me and the guys went up to the shop to grab some food. After lunch, we had a talk about college life, and Jen, Evan, and Sean shared what it was like when they were in college. We squeezed in a quick 10-minute break and kept the pool tournament going that we started at lunch yesterday. Then it was back to the Bolger room for a talk on women in coding, but it was super short since no one had any questions.
+
+Now it’s around 3:30, and I’m working on the Tuesday section of the blog. I have no idea what’s planned for tomorrow, so I’ll just check the whiteboard table in the morning. Also, drank way too much orange soda today.
 
 ![image](https://github.com/user-attachments/assets/69630a2a-9361-4b06-ae74-d38b41def2db)
 
