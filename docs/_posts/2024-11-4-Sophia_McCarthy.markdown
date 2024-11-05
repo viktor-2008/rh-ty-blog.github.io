@@ -5,23 +5,20 @@ date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To My Blog!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
+* Hello! My name is Sophia Mc Carthy and I'm a St Angelas Ursuline TY student and im taking part in a week of work experieence in RedHat
+  
 
 
 ## Monday
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter youtur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+ On Monday we got a introduction to the office and a tour around showing us their facalities and offices we did a few ice breakers and introduced ourselves here i met James, Jen and Pat
+ After we played Mario Kart and explored the area and then at 2 o clock we had a work shop and had to build Mr Potatoe heads where this showed us the consept of "to do,do and done"
+ We didnt really use the computers much today other than getting signed in and making a Github account 
+ I also found there was alot great snacks and drinks in the kichen all restocked by Becky 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
