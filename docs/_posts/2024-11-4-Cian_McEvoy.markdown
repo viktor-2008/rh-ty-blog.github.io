@@ -19,7 +19,7 @@ We were given an office tour, we went all around the office and saw the differen
 *we were then given an introduction talk from James and what we were told the bassics and what were going to be learning and doing for the week*
 
 *After the office tour we went into the canteen and games area and played the switch and pool table.*
-*After a while of playing switch and pool we did a workshop with a mr.potato head to show how the workers do their work with their team even if they aren't in the same room or on call to comunicate.*
+*After a while of playing switch and pool we did a workshop with david and were given a topic to make our mr.potato head with to show how the workers do their work with their team even if they aren't in the same room or on call to comunicate.*
 
 *At the end of the day we went of for the last hour and played more with the pool table until we had to go home.*
 
