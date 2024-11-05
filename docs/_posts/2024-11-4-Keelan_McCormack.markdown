@@ -15,15 +15,13 @@ categories: jekyll update
 ## Monday
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
+Day 1 at Red hat was a great time to get to know what we would be doing in the week and getting to know what type of people we would be working with. At 10 am we mainly played around by guessing the famous person on our back, I took the longest due to not knowing and watching the Star Wars series. (I was Luke Skywalker)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After that we went on a little tour of the office where we got to see the kitchen, lounge, pool room and other offices at around 11 am before heading to the main work room during the afternoon where we learned about the type of work that went on in here and learned how the people here worked with their customers by being agile, which follows a method of design, devolop, test, release, feedback and plan then rinse and repeat. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Then myself and the others went on our break to have a small Mariokart tournament which helped us bond more so we could work better. Then after that we went back into the main office to do a small example of what coding could be like with customers with Mr. Potato heads in which we were paired up and had to dress/style our potato heads in order to satisfy our customers needs in which we used the To do, do and done strategy and after that we did a reflection exercise of what went well, what didn't go well and what we could improve upon if we were to do this again. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Over all I would say that this was a great first day that helped me learn what we would be getting up to during this week as well as meeting new people and getting to know them in a fun and silly way. If there was one critique that I could make, it would be that we didn't do too much work but since this was our first day, I can see why we did so little and it also helped me bond with the people I would be working with.
 
 
 ---
