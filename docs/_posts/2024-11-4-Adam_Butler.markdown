@@ -45,17 +45,26 @@ without wasting hours of work.
 
 ---
 ## Tuesday
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![GitHub Logo](https://www.lffl.org/wp-content/uploads/2018/06/github.jpeg)
 
-**This is the text area where you can enter your blog details for Tuesday**.
+**What we talked about**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+For Tuesday the day was more structured and organised. The staff who were working on the TY programme setup a timetable from 9:30am - 4:00pm the day started with "Stand up"
+which consisted of explaining the plan for the day what we were doing, and just general house keeping. We started with Bash which was our first lesson learning how to properly code and using the terminal
+we learnt about simple commands like echo, locating files and creating a .txt file using the terminal and using code with variables to produce text using x and y variables with Pat.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+**GitHub**
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Later that day at 11:00am Pat and Gen taught us how to write our blog scripts using the provided template and guides provided by Red Hat and taught us the fundamentals of GitHub as it is
+a important part of Red Hat due to been a open source company a they allow anyone to access their code. We learnt about how Red Hat use GitHub as a way of learning and experimenting with code
+without the risk of breaking code. GitHub provides a way for staff to learn what works and what doesn't and also working as a team.
+
+**Student Life & Women in Tech**
+
+After Lunch we tlked about what it's lik to be a student in college and the different paths you can take after getting your degree. We talked to Sean and Jen about both their college experiences.
+We also spoke with Oxona who came to Ireland 2 years ago from ukraine she gave us an insight about what it is like to be a women in the tech industry  
+
+
 
 
 ---
