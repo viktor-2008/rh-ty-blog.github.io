@@ -28,7 +28,11 @@ We came in into the Bulmer Suite and had a small talk with James. We played a fa
 We had a 1.5- 2 hr long break until work started in around 11:00.
 We used this break to hang out in the canteen and play on the Wii. Me and the lads messed around on the pool table.
 When we came back we had another talk with David. We had a talk about some sort of productivity technique called "Agile".
-We also built a Mr. Potato head. Me, and the other lads in my team showed it off in front of the class.
+We also built a Mr. Potato head. Me, and the other lads in my team showed it off in front of the class. 
+We then had a 10 min break where I messed around on the pool table again.
+
+We took our laptops and created our Github Account. We created our forks, through which I'm writing this blog!
+
 ## Tuesday
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
