@@ -13,7 +13,7 @@ categories: jekyll update
 
 ## Monday
 
- On Monday we got a introduction to the office and a tour around showing us their facalities and offices we did a few ice breakers and introduced ourselves here i met James, Jen and Pat
+ On Monday we got a introduction to the office and a tour around showing us their facilities and offices we did a few ice breakers and introduced ourselves here i met James, Jen and Pat
  After we played Mario Kart and explored the area and then at 2 o clock we had a work shop and had to build Mr Potatoe heads where this showed us the consept of "to do,do and done"
  We didnt really use the computers much today other than getting signed in and making a Github account 
  I also found there was alot great snacks and drinks in the kichen all restocked by Becky 
