@@ -15,7 +15,7 @@ categories: jekyll update
 ## Monday
 
 
-When we first came in we were assigned desks and laptops for the week. We started the day by doing icebreakers were we were assigned famous people or characters and had to ask questions to figure out who we were. James gave a small talk about the company and it's history. Then we were given a tour of the office by Becky and we played Mario Kart. After lunch we had a workshop on agile. We put the method into practice by making Mr. Potato Heads in groups. We had to make changes to our Potato Heads according to the needs of our customers, Jen and Pat. We then presented our Potato Heads to the group, exlaining our choices while making it. At the end of the day we created GitHub accouts so we could edit our blog throughout the week.
+When we first came in we were assigned desks and laptops for the week. We started the day by doing icebreakers were we were assigned famous people or characters and had to ask questions to figure out who we were. James gave a small talk about the company and it's history. Then we were given a tour of the office by Becky and we played Mario Kart. After lunch we had a workshop on agile. We put the method into practice by making Mr. Potato Heads in groups. We had to make changes to our Potato Heads according to the needs of our customers, Jen and Pat. We then presented our Potato Heads to the group, explaining our choices while making it. At the end of the day we created GitHub accouts so we could edit our blog throughout the week.
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
