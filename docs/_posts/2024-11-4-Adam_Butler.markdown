@@ -18,20 +18,30 @@ My name is Adam Butler and i am attending the TY course at red hats office in Co
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
 **Monday Morning**
+
 We were greeted Monday morning to all the Red Hat staff that were involved in the TY programme, and many of the staff explained to us
 what Red Hat is about and what work they have done and the history of Red Hat.
 
 Staff showed us to our desks and gave us a tour around the office showing us the different teams, conference rooms and facilities
 across the office. Red Hat has lots of liesurely facilities for staff including TV,switch, xbox, pool table and snacks drinks for employees. 
 
+**Monday tasks/activities**
 
+* Guess the celebrity
+* Agile introduction
+* Potato head team task
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+These were all activities that we did throughout the day that allowed all of us to get to know each other
+but also learn how Red Hats ecosystem works which uses Agile a team based system where teams come together and learn
+how to spot problems and adapt without having fully disregard projects or work. This system provides better work flow
+and allows teams and co-workers to learn from each other and allows small changes to happen instead of massive changes
+without wasting hours of work.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+**Staff that worked with us**
+* Gen 
+* Pat
+* David 
+* James
 
 ---
 ## Tuesday
