@@ -15,15 +15,14 @@ Cheerios
 ## Monday
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
+## Monday
+On Monday morning, I came in the doors and we gathered in the reception. We were then shown to our desks and had to sig into our laptops. After a while of it not working, we were brought into the bolger room and were giving an introduction on the office space and what we would be working on. Then we were giving a tour on the office space and were shown the rooms we could go to, the kitchen ad the games area and pool room. We were told we can eat the free snacks that arethere and that is what we are gonna do. We played a game of icereakers where there was a celebrity stuck to ourback and had to ask people questions to find out who we were.    
+      After all that, we had a three hour break where we played pool and had a mario cart tournament. I rather pool. We then went back to the bolger room and learned about agile. the waythey showed us was by giving us mr potato heads and giving us a theme to design the heads. My groups theme was an adventurer and it was looking pretty good. After two more short breaks, we were brought into the room where we signed up for a github account and got started with how to edit our blogs for the week. this took about 30 mins and soon we were finishing up early.   
+         The first day was fun and gamesand tomorrow we will be starting our blogs and learning about fedora.
+         
+  ![image](https://github.com/user-attachments/assets/8655191a-6af0-450f-918f-93ec8d0c244d)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
