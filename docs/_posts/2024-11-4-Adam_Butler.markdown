@@ -8,17 +8,18 @@ categories: jekyll update
 ## Welcome To Your Blog!
 My name is Adam Butler and i am attending the TY course at red hats office in Co. Waterford
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
+**_What is Red Hat?_**
+* Red Hat is a open source company mainly focused on software engineering and developing
+* Acquired by IBM July 9th of 2019
+* Red Hat is known or its own open source projects using Linux operating system
 
 
 ## Monday
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
+**Monday Morning**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
