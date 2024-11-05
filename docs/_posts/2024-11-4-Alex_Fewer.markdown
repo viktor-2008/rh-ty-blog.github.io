@@ -40,14 +40,23 @@ Last thing in he day, we had a talk about something but somehow I've completely 
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Today I came in this morning not as nervous as I was before, knowing it atually wouldn't be too bad and that I have friends to talk to. When we arrived we have to be in the Bolger Suite first thing at half 9am. I was actually on time along with most of the others. We spent most of the day in that room. 
+ 
+Pat gave us a talk about the basics of coding using Bash. The layouts of the laptops took a while to get used to at first due to them being set up on Fedora, a version of the Linux operating system, since I use Windows on my computer at home. Thankfully it wasn't too confusing and my small bit of knowledge of using a computer interface came in handy. We had a few problems with the keyboards being mapped wrong a few times like with the @ symbol being mapped to 2 + Shift rather than ' + Shift, as well as the # symbol not existing for some people. Pat showed them how to switch the keyboard mapping to English (US) in settings. Mine still isn't mapped correctly but I know to get #, I have to press 3 + Shift. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+After that was fixed, we got back to the basics of learning bash code. Pat showed us some basics commands such as echo, which would repeat what you just typed, ls, which lists whatever is in a folder, nano, which lists what's in a file, etc. Robert came to many complications with figuring out how to write the code. I found it hilarious watching the interactions between him and Pat as Pat has a good sense of humour.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+After finishing the basics of Bash coding, Pat showed us how to edit our daly blog that I'm actively writing right now. I was a bit confused on how to confirm my edits at first but Pat helped me in the end. I ended up writing quite a lot which Robert found quite funny after he showed me his 2 paragraphs compared to my 8 relatively long ones. Robert is nice to me and that makes me happy. I'm always worried about having no one to talk to when I got to a new place so I'm glad he's nice to me.
 
+After the blog we had our hour break. Me, Jack, Robert, Adam, Cian, Jeff, Keelan, Viktor and Oisin decided to begin a pool tornament that will hopefully last to the end of the week. First up was Cian against Robert. it was close but Cian won. Next was Jack against Adam. Again, it was close, but Adam one. I was next. I was against Oisin. He's a pretty good pool player. I wouldn't be too bad myself but it was a while since I last played. I didn't start of strong, I wasn't hiting the ball hard enough. But soon I warmed up and got some good hits, managing to get the balls in the holes. Mainly for the gane, I was either really bad, or really good. There was no in between really. We ran out of time due to lunch being over, but in he end I had a higher score than Oisin by one, so I won! That was cool. I also got a hot chocolate that lunch break. It was a good hot chocolate. 
+
+After lunch, a guy called Sean came in to talk to us about college life and picking a tech related subject in college. He was a good choice for this as he was still young and fresh out of college. He gave us a good talk about his experience and he gave me a nicer view on college. I also learned that him, Jen and Dominic all went to college at the same time, in the same place, SETU.
+
+We next had a twenty minute break before another talk. We continued the pool tornament and this time it was Viktor against Jeff. I can't remember for certain who won but I know it was very close. 
+
+When we canme back to the Bolger Suite, we had another talk, this time from another employee but she was from Ukraine. She was giving us a talk about women in tech and how there's a large lack of women in tech jobs. She also talked about how even with the war in her home country of Ukraine she still managed to persue her dreams in working in tech. As of now, she is still a part-time student in SETU and a full time worker in Red Hat.
+
+There wasn't much else to say after that so we got to start working on today's blog early. It was scheduled for 4pm, but as I'm writing this, it's only 15:49, and I'm thinkig about how I'll probably have to wait around before being collected...
 
 ---
 ## Wednesday
