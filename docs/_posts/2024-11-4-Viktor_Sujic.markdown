@@ -51,8 +51,18 @@ Afterwards we learned more about Github, such as where everything is, how to mak
 
 Meanwhile in the canteen the lads had a pool tournament on. During round 4 it was me against Jeffrey. I lost, but very narrowly.
 
-After lunch, we had a "Student Life" talk, where an employee called Shane came in
-## Wednesday
+After lunch, we had a "Student Life" talk, where an employee called Shane came in and told us about his life in college.
+He told us about how if you do something you enjoy, it won't be as boring. We also heard a little speech from his
+friend whose name I can't remember- but they both reccomended college to us as a carreer-boosting choice.
+
+A lady from Ukraine came in. She said that she came here because of the war and is currently in college.
+Funnily enough each talk lasted about 15 minutes but there were 40 minutes left in the session- and barely 
+anyone had questions afterwards, which made things drag on slower.
+we had some time afterwards to finish our blogs. Looking back I should've taken advantage of that time and completed my
+tuesday blog instead of leaving early because now I have to finish it today.
+I left early and walked home.
+
+# Wednesday
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
 **This is the text area where you can enter your blog details for Wednesday**.
