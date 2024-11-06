@@ -32,17 +32,14 @@ And after lunch we got a talk about women in tech which was very education and b
 
 ---
 ## Wednesday
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
+Today was Engineers day so in the morning we had another stand up meeting talking about what we had done the last day. 
+Then we got a long break and in the cafateria we got given a brown envelope that had spagetti a marshmellow, string, tape and scissors 
+with these items we had to make a tower with the marshmellow on top and it had to stand by its self and who ever made the tallest tower wins.
+Then after lunch we sat down again in diffrent groups and had two hours to make a roller coaster with a pack of straws, and tape and the coaster had to have a 360 loop and had to be able to carry a ball.
+Mine unfortunetly didnt work that well but it looked cool1 
 
-**This is the text area where you can enter your blog details for Wednesday**.
+![image](https://github.com/user-attachments/assets/58d56e6c-3f37-413f-8141-65bc9fe993a9)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
