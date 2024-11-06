@@ -29,19 +29,19 @@ overall day 1 of my week here was very relaxed and more of an introduction and p
 
 **My first real day working here at Red Hat**
 
-i was really happy coming in this morning and i came in and met oisin,alex,jack and a few other lads before we started at 9:30 
+I was really happy coming in this morning and I came in and met Oisin,Alex,Jack and a few other lads before we started at 9:30 
 
-i checked our whiteboard and and saw what we had for the rest of the day. It started with "stand up"in the bolger suite where we acted like we were on a team together and communicated about the good bad and improvements about yesterday followed with by a brieftalk about what was going to be done today. this was exellent as i felt i could try and voice our opinions about what were doing in Red Hat.
+I checked our whiteboard and and saw what we had for the rest of the day. It started with "stand up"in the bolger suite where we acted like we were on a team together and communicated about the good bad and the improvements about yesterday which were followed with by a brief talk about what was going to be done today. this was exellent as i felt i could try and voice my opinions about what were doing in Red Hat with others.
 
-we stayed in the bolger suite for the next hour and we got try try out bash and doing very basic programing/coding. i found this a real challenge at the start but actualy loved it a lot towards the end pat was very patient and was always encouraging us to ask for help. this was probably the highlight so far this week and im getting a lot more comfortable with lynex and github. this was followed by doing our blogs as we did not do them on monday.
+We stayed in the bolger suite for the next hour and we got try out bash and doing very basic programing/coding. i found this a real challenge at the start but actualy loved it a lot towards the end. Pat was very patient and was always encouraging us to ask for help. This was probably the highlight so far this week and im getting a lot more comfortable with lynex and github. This was followed by doing our blogs as we did not do them on Monday.
 
-lunch has been a great part of the day and today we set up a pool tornement for the rest of the week.
+Lunch has been a great part of the day and today we set up a pool tornement for the rest of the week.
 
-once lunch ended we made sure we were on time for ou talk about college life. being on time had ben a problem yesterday so i made sure not to be late. this talk was led by sean, domnic and jen we asked all our questions about college and courses related to working in redhat sean also told us his story bout how he ended up here its interesting to see how all the workers all did different courses and have all ended up with jobs here (information technology)
+Once lunch ended we made sure we were on time for ou talk about college life. Being on time had ben a problem yesterday so i made sure not to be late. This talk was led by sean, domnic and jen we asked all our questions about college and courses related to working in Red Hat Sean also told us his story bout how he ended up here its interesting to see how all the workers all did different courses in college and have all ended up with jobs here (information technology)
 
-last talk in the bolger suite today was our talk with oksana and she toldus about wome in tech to some it up there is very few women in tech and it would be good if this is encouraged more to girls as at the moment only 20% of tech workers are female
+The last talk in the bolger suite today was our talk with Oksana and she toldus about women in tech, to some it up there is very few women in tech and it would be good if this is encouraged more to girls as at the moment only 20% of tech workers are female in tech workspaces.
 
-to end the day im now writing todas blog and am now finished so ill play a bitof pool before i go home
+To end the day im now writing todas blog and am now finished so ill play a bit of pool before I go home.
 
 
 ---
