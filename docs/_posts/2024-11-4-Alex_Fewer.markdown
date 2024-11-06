@@ -41,7 +41,7 @@ Last thing in he day, we had a talk about something but somehow I've completely 
 **This is the text area where you can enter your blog details for Tuesday**.
 
 Today I came in this morning not as nervous as I was before, knowing it atually wouldn't be too bad and that I have friends to talk to. When we arrived we have to be in the Bolger Suite first thing at half 9am. I was actually on time along with most of the others. We spent most of the day in that room. 
- 
+
 Pat gave us a talk about the basics of coding using Bash. The layouts of the laptops took a while to get used to at first due to them being set up on Fedora, a version of the Linux operating system, since I use Windows on my computer at home. Thankfully it wasn't too confusing and my small bit of knowledge of using a computer interface came in handy. We had a few problems with the keyboards being mapped wrong a few times like with the @ symbol being mapped to 2 + Shift rather than ' + Shift, as well as the # symbol not existing for some people. Pat showed them how to switch the keyboard mapping to English (US) in settings. Mine still isn't mapped correctly but I know to get #, I have to press 3 + Shift. 
 
 After that was fixed, we got back to the basics of learning bash code. Pat showed us some basics commands such as echo, which would repeat what you just typed, ls, which lists whatever is in a folder, nano, which lists what's in a file, etc. Robert came to many complications with figuring out how to write the code. I found it hilarious watching the interactions between him and Pat as Pat has a good sense of humour.

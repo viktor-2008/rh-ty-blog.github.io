@@ -5,25 +5,20 @@ date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To My Blog!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
+* Hello! My name is Sophia Mc Carthy and I'm a St Angelas Ursuline TY student and im taking part in a week of work experience in RedHat
+  
 
 
 ## Monday
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
+ On Monday we got a introduction to the office and a tour around showing us their facilities and offices theres a shower and tredmill along with other things. In the morning we did a few ice breakers and introduced ourselves here i met James, Jen, Pat and Dominik. After we played Mario Kart and explored the area and then at 2 o clock we had a work shop and had to build Mr Potato heads (our theme was disney) where this showed us the consept of "to do,do and done" which was presented to us by David i found this really intresting and it also showed us that we need to check in with the customer to make sure they are satisfied with the things we are working on before we move on. We didnt really use the computers much today other than getting signed in which was this morning and making a Github account which we did later in the day with Pat
+ 
+ ![image](https://github.com/user-attachments/assets/512b726d-5de6-4698-b9f0-c44695a55009)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
