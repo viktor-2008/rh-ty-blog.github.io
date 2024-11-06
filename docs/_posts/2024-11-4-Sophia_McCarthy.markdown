@@ -23,17 +23,11 @@ categories: jekyll update
 
 ---
 ## Tuesday
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
-
-**This is the text area where you can enter your blog details for Tuesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Today we had a stand up meeting where we talked about what we did yesterday and voiced and questions or complaints 
+Then we started coding with Pat, which i found very interesting and it was someting new that i had never done before, we were entering multiple diffrent commands
+Shortly after this we started working on our blogs and we had to sit down in our work space and do it which ws good we got a real feel of what its like to be in a working enviornment.
+we finished our monday blogs on Github and got them updated to the website and we got shown how to use github a bit more
+And after lunch we got a talk about women in tech which was very education and being a girl myself it was nice talking to someone who was trying to get into a male dominated work space
 
 
 ---
