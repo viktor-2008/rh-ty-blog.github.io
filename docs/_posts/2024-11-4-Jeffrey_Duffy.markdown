@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Jeffrey Duffy Blog"
+date:   2024-09-13 12:58:15 +0100
+categories: jekyll update
+---
+
 ## Monday
 I arrived at the red hat office at roughly 09:30 and received my laptop,desk and badge.At 10:00 I met everyone else in TY program and did ice breakers and got the tour of the building.We were shown around the desk area and the break area were they have sweets,consoles and a pool room.We had free time until 14:00 were we learned about agile and made mr.Potatoe heads to teach us about the concept.My group made one with the spider-man colour scheme and after a small break we had to talk about the process of making the design of our potatoe head.We then got told a few things that we would be doing over the week like editing this blog.We ended an hour early so I waited in the break area before I got collected by my dad.While waiting I played a bit of pool and drank hot chocolate.
 ## Tuesday
