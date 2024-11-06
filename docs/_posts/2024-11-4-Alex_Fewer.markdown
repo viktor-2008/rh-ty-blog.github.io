@@ -64,14 +64,11 @@ There wasn't much else to say after that so we got to start working on today's b
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+This Wednesday morning I headed to the offices to wait around until half 9 and to check the timetable. There I foudn Robert and then we both walked to the Bolger Suite for our groups daily meeting. We talked aout the things we did yesterday and Adam mentioned how some mnonitors weren't working and also that Oisin complained about the lack of smoothies. Jen said that after the meeting we would try fix the monitors.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Up until today I had no problem with my laptop but when we went to go fixed them, I tried to turn it on and weird screen canme up kind of looking like it had crashed. It wasn't the Blue Screen of Death but it was some sort of black screen with a command or something. Even Jen was confused but she managed to reboot the laptop and it was working fine. While we were waiting around for a bit, I opened Frv.com to find some games to play but the connection was weird and the ganes wouldn't work. So, instead I used a different game called Territorial.io and it worked but I lost.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+Next we went into the canteen for a bit and I watched the boys play Mario Kart again. It was only 15 minutes or so until we went into the Tuskar room. It was like a small meeting room that was realy cold at first to step into. There was a guy on a video call called Kevin but he didn't say much because james showed us a presentation about the history of computing. There was a quiz on company logos at the start and I worked with Jeff and Cian. I was very tired and nearly passed out but I took in most of what James said I think. Next we were given 25 minutes to work on our blogs.
 
 ---
 ## Thursday
