@@ -48,15 +48,17 @@ To end the day im now writing todas blog and am now finished so ill play a bit o
 ## Wednesday
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
+I came in this morning and met up with Alex, Oisin, and Jack and we headed to the Bolger suite for our daily discussion about tuesday and what we can do to make today better. A few people had problems with their monitors so we got the fixed and on an uniportant note we ran out of smoothies- Oisin is devistated
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+At 10:30 we got an important tallk in the Tuskar room about the history of the web, servers and jobs in computers- all the jobs can be so different and its reaaly nice that you can change role in Red Hat and make sure you really are happy in your position James encouraged us to ask him questions but we talked about so many things i had no questions for him.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+An intresting fact about the talk was that Red Hat has no pcs here they are all running on a server somewhere else.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Finally just before lunch we did an engineering task to build a tower out of tape and pasta. the winners had a tower 23 inches tall- well off my team with Alex and Kayla, we struggled to keep our tower upright.
+
+In the afternoon myself Oisin,Jack and keelan were on the same team for the 'Engineering Task and we had to make a roller coaster out of straws and cellotape. this took us the two hours we had and then the judges came in who were big higherups from the USA. we won because of our inavatitve spiral and good cellotaping skills by Oisin. 
+
+To end this wednesday i am here writing my blog in the office area.
 
 
 ---
