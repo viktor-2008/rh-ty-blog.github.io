@@ -30,11 +30,11 @@ We were given an office tour, we went all around the office and saw the differen
 
 **This is what I did on Tuesday**.
 
-*Today we started our day with a thing where we talk about what we did the day before, about what we liked and what we didn't like and after that we had a small 10 minute break. Right after our break we went and had a mini course on how to code with Pat and learned a few thing like how to create files in our folder.*
+*Today we started our day with a thing where we talk about what we did the day before, about what we liked and what we didn't like and after that we had a small 10 minute break. Right after our break we went and had a mini course on how to code with Pat and learned a few things like how to create files in our folder.*
 
-*Once we were finished with that we went ahead and started our blog on what we had done on Monday and pent 30 minutes on that so we could have it finished fro the day. Once we finished that we went off for our hour long lunch break so me and a few of the lads went down the the nearby deli and got lunch there, we then came back and had a few games of pool and started a tournament that we will be doing for the next few days.*
+*Once we were finished with that we went ahead and started our blog on what we had done on Monday and spent 30 minutes on that so we could have it finished for the day. Once we finished that we went off for our hour long lunch break so me and a few of the lads went down the the nearby deli and got lunch there, we then came back and had a few games of pool and started a tournament that we will be doing for the next few days.*
 
-*After our lunch break we went back in for a talk with Seán and Jen about what their expierience in college was like, how much time they spent there and what their course was like. After that we had one last break and came back to a talk about what it's like for women in tech and to see trhat not many people who are in tech are women.*
+*After our lunch break we went back in for a talk with Seán and Jen about what their expierience in college was like, how much time they spent there and what their course was like. After that we had one last break and came back to a talk about what it's like for women in tech and to see that not many people who are in tech are women.*
 
 *At the end of the day I spent 30 minutes adding to my blog for the day to talk about what I did for the day.*
 
