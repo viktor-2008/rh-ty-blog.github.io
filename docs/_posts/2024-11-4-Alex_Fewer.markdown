@@ -70,6 +70,14 @@ Up until today I had no problem with my laptop but when we went to go fixed them
 
 Next we went into the canteen for a bit and I watched the boys play Mario Kart again. It was only 15 minutes or so until we went into the Tuskar room. It was like a small meeting room that was realy cold at first to step into. There was a guy on a video call called Kevin but he didn't say much because james showed us a presentation about the history of computing. There was a quiz on company logos at the start and I worked with Jeff and Cian. I was very tired and nearly passed out but I took in most of what James said I think. Next we were given 25 minutes to work on our blogs.
 
+After that, we were given an engineering task where I was paired with Robert and Kayla. We were given uncooked soaghetti, tape, a marshmellow and string, and we had to make a structure to get the marshmellow as high off the table as possible. We tried to make a cube with a pyramid on top but it fell and we lost. For our second try we were allowed to take inspiration from the winning group, Group 3. We stacked stuff on top of each oth by cutting the envelope into two rolled up cylinders anf taped them together. We would've won if it was stable.
+
+For lunch we continued the pool tornament. I was agasint Jeff and it was close but in the end he won. A few others also played but I forgot the order of them. I briefly picked up the guitar and tried played Pork and Beans by Weezer. Then I played The Sweater Song - Undone by Weezer, Breed by Nirvana and School by Nirvana. I can't play much on guitar, I'm more of a drummer. 
+
+After lunch we were given another engineering task. This time I was paired with Sophia and Katelyn and we were required to make a roller coaster out of paper straws and tape. There was one rule however: it needed to have a 360 degree loop. It took us nearly the full hour and it was still falling over and couldn't hold the ball. Out of the 4 groups, only Group 1 managed to successfully create a working roller coaster. They thought outside of the box and made they're 360 loop vertical. The roller coaster was also just very stable in general. There were 3 judges flown over from America for sme reason to take a look at the roller coasters. Unsurprisingy, Group 1 one.
+
+The roller coasters took quite a while so we didn't get to finish as early as the last two days so I'm finishing off this blog at half 4, and at this rate I'm very tired and want to go home. But I still can't go home until neary 7 because I have drum lessons from 6 to half 6.
+
 ---
 ## Thursday
 ![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
