@@ -47,9 +47,11 @@ what went wrong yesterday.
 We then had a rather lengthy coding session where we were learning about a 
 language called Bash. We learned how to create text files and some basic coding.
 We created our first line of code. 
+Afterwards we learned more about Github, such as where everything is, how to make  pull request, how to make a commit, ect.
 
-Meanwhile in the canteen the lads had a pool tournament on. During round 4 it was me against Alex. I lost, but very narrowly.
+Meanwhile in the canteen the lads had a pool tournament on. During round 4 it was me against Jeffrey. I lost, but very narrowly.
 
+After lunch, we had a "Student Life" talk, where an employee called Shane came in
 ## Wednesday
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
