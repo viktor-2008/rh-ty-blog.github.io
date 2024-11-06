@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oisín Reilly Blog"
+title:  "Oisín Reilly Red Hat Blog"
 date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---
@@ -53,15 +53,15 @@ Throughout the day we helped ourseleves with the free snacks and drinks from the
 ## Wednesday
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
+ Today as usaual i arrived in the office at 09:24 so i had 6 minutes to read the white board and to meet the lads. I opened the door and robert and alex greeted me into the office. We took a walk to the pool room and then visited the bolger suite for our second stand up. We mentioned what we did yesterday and mentioned that some of the monitors werent working and that there was no smoothies stocked in the fridge...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+  There was no smoothies.....
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+  Let that sink in.....
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+  We then noticed that adam made his wallpaper for his computer a picture of himself
+
+ 
 
 
 ---
