@@ -32,11 +32,11 @@ And after lunch we got a talk about women in tech which was very education and b
 
 ---
 ## Wednesday
-Today was Engineers day so in the morning we had another stand up meeting talking about what we had done the last day. 
-Then we got a long break and in the cafateria we got given a brown envelope that had spagetti a marshmellow, string, tape and scissors 
-with these items we had to make a tower with the marshmellow on top and it had to stand by its self and who ever made the tallest tower wins.
-Then after lunch we sat down again in diffrent groups and had two hours to make a roller coaster with a pack of straws, and tape and the coaster had to have a 360 loop and had to be able to carry a ball.
-Mine unfortunetly didnt work that well but it looked cool1 
+Today was Engineers Day, so in the morning we had another stand-up meeting talking about what we had done the last day. 
+Then we got a long break, and in the cafateria we got given a brown envelope that had spaghetti, a marshmellow, string, tape, and scissors.
+With these items, we had to make a tower with the marshmellow on top, and it had to stand by itself, and whoever made the tallest tower wins.
+Then after lunch we sat down again in different groups and had two hours to make a roller coaster with a pack of straws and tape, and the coaster had to have a 360 loop and had to be able to carry a ball.
+Mine unfortunately didn't work that well, but it looked cool. 
 
 ![image](https://github.com/user-attachments/assets/58d56e6c-3f37-413f-8141-65bc9fe993a9)
 
