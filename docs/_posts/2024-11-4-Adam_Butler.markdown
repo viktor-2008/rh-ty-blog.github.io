@@ -112,6 +112,11 @@ Later we talked with dominic about InstructLab one of Red Hats open source proje
 
 After lunch, we set out producing a rain garden using AI. I was partnered with Oisin, and we set out to produce a rain garden for the Red Hat office in Waterford. Our design consisted of a sloped roof on the main office building with a drain for the runoff rain. This rain is then collected from the drain and then stored in a tank underneath the surface. Once the tank reaches full capacity and the weather turns sunny, a solar panel then sends a message to the tank to allow water to flow to the sprinkler system, and then sprinklers are powered by the solar panel, allowing water to reach the plants during sunny weather.
 
+**Thursday Evening**
+
+For our last gathering, we were on a Zoom call with Paulo, one of Red Hats employees from Italy. A massive Ferrari and Formula One fan who showed us how Red Hats telemetry software could be used to read telemetry data within the Formula One game.
+Paulo showed us a video of him working on a small project with his son by reading the telemetry data coming from the game and telling us various stats like speed, engine temperature, weather, brake force, throttle force, and lap times, all of which use telemetry data. This is the same software that Formula One engineers use in the pit box for live analytics.
+
 ---
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
