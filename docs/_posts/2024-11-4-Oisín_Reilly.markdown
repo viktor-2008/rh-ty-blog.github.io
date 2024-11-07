@@ -98,7 +98,11 @@ we then went straight to the desks to wrte our blog where i met alex and robert 
 
 After that me and robert messed about with our wallpaper on our laptops. Then it was lunch. Me cian and adam went to the shop then to grab a chicken roll for our lunch. When we came back we played a small game of pool but robert beat me :( 
 
-We then had a duo project on rain gardens. Me and Adam were together. We designed a rain garden for big corporate buildings such as the red hat buildings in the states. I drew a diogram of our plan based on what we decided a rain garden needs. WE designed it so that he gutters on the building gathr water into a tank. We also had a solar panel to power water sprinklers connected to the tank i mentioed before. These sprinklers were only activated when the plants needed water so that the plants wouldnt drown. After we gathered info on rain gardens we put it all into slides
+We then had a duo project on rain gardens. Me and Adam were together. We designed a rain garden for big corporate buildings such as the red hat buildings in the states. I drew a diogram of our plan based on what we decided a rain garden needs. WE designed it so that he gutters on the building gathr water into a tank. We also had a solar panel to power water sprinklers connected to the tank i mentioed before. These sprinklers were only activated when the plants needed water so that the plants wouldnt drown. After we gathered info on rain gardens we put it all into slides we had to make a presentation onfront of the group explaining the idea behind it.
+ 
+ After that you could probably guess back to the blogs before our zoom call with james and pablo. Pablo works on gathering stats and data for sports and the technology he uses was was used in thr olympics. He was a big ferrari and napoli fan.
+
+ As Paolo finished we headed back to our desks to finish our blog.
 
 
 
@@ -107,17 +111,10 @@ We then had a duo project on rain gardens. Me and Adam were together. We designe
  
 ---
 ## Friday
-![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
+![Red Hat Office](https://www.cambridge.org/elt/blog/wp-content/uploads/2019/07/Sad-Face-Emoji.png)
 
-**This is the text area where you can enter your blog details for Friday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
----
+Sadly i wasnt in :(
 
