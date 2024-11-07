@@ -58,7 +58,7 @@ friend whose name I can't remember- but they both reccomended college to us as a
 A lady from Ukraine came in. She said that she came here because of the war and is currently in college.
 Funnily enough each talk lasted about 15 minutes but there were 40 minutes left in the session- and barely 
 anyone had questions afterwards, which made things drag on slower.
-we had some time afterwards to finish our blogs. Looking back I should've taken advantage of that time and completed my
+We had some time afterwards to finish our blogs. Looking back I should've taken advantage of that time and completed my
 tuesday blog instead of leaving early because now I have to finish it today.
 I left early and walked home.
 
@@ -67,8 +67,29 @@ I left early and walked home.
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
+## Wednesday, November 6th, 2024.
+
 I arrived at 9:00 and had more freetime early on than yesterday. Although I accidentaly locked meself in because I didn't know where
 my swipe card was. I asked someone else to let me in and found it inside my jacket pocket when I thought it was at home.
+We did our stand-ups (Talking about the day before) in the bolger suite. Unfortunately there is a shortage of smoothies in the fridge as some lads pointed out.
+
+We then went into a smaller green-walled room on the other side of the building and saw a presentation on the History
+of Computing. It went into detail about The Cloud, Amazon and how they started off selling books, and just the progress 
+of technology in the modern world in general. I was the one who asked the most questions and got a pen as 
+a prize.
+Afterwards we did an activity which involved trying to make a structure out of spaghetti which we could use to
+put a marshmallow on top of. Whoever built the highest statue won a bag of mallows.
+Me and my team got about third-best- although this was out of teams of four so not great.
+
+After lunch- during which I played a round of pool-  we returned to the bolger suite and had
+a competition to see who could build the best rollercoaster out of nothing but straws and tape.
+Who would determine which coaster was the best? three American men who came in
+and reviewed our contraptions. The first team won- because, well, it was the only one that worked without half-collapsing-
+but my one got some compliments here and there too.
+
+I had some time afterwards to work on these blogs and left at 5:00.
+
+
 
 ---
 ## Thursday
