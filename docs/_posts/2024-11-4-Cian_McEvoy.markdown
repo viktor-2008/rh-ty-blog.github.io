@@ -61,17 +61,17 @@ We were given an office tour, we went all around the office and saw the differen
 
 ---
 ## Thursday
-![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
 
-**This is the text area where you can enter your blog details for Thursday**.
+**This is I did on Thursday**.
+*We started our morning with the sand up again there was no complaints after our stand up we worked a biton our blog and fixed anything we messed up on Wednesday*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+*We then had a brekfast buffet and had some sausages and some pudding and wheni was finished my breakfast I had a game of pool with Adam*
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+*After breakfast and pool we had a talk about ai with Seán and Dominik and they each had their own talk, Seán spoke about generative ai, machine learning ai and deep ai and then Dominik spoke to us about the benifits of ai and the problem with ai.*
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+*Then for our lunch myself, Oisín and Adam went down to the nearby deli and got some lunch and when we got back we played some more pool*
+
+*After lunch we had to make a presentation about Rain garden using ai pictures and information I was paired up with Jack and we made a powerpoint and used ChatGPT for our information and we used deep ai for the pictures.*
 
 ---
 ## Friday
