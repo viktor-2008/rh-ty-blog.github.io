@@ -34,7 +34,7 @@ In the morning we did stand up,  then we did history of computing, then we did a
 ## Thursday
 ![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
 
-
+In the morning we did stand up and talked about what we did the day before. Sean gave us a talk about AI and the history of AI. Dominik then gave us a talk and a workshop on InstructLab, and we created different AI scenarios and questions. We learned that AI isnt always accurate and sometmes has these things called hallucinations where is gives you false information, and just makes up stuff. We then made a presentation on rain gardens usuing AI and generating images using AI
 
 ---
 ## Friday
