@@ -109,11 +109,20 @@ Then, after 10:45 we came back into the bolger suite and Shawn showed us a
 presentation on AI. We learned about how AI learns, the history of AI, and the
 different types of AI- Generative, memory, pattern.
 
-We came back in after a break and Dominik showed us InstructLab - a chatbot-and we got to give it informstion
+We came back in after a break and Dominik showed us InstructLab - a chatbot-and we got to give it information
 about whatever we want- be it a new movie, game or show.
 I chose to tell it about the Barbie movie.
-But it was a very tedious
-
+But it was a very tedious process because we had to create our own questions and answers
+to feed the bot with.
+And I had to include the same questions the rest of my team included. 
+After the project we went on our lunch break and stayed there for about an hour.
+ I also took a picture with the visitors from yesterday {who were still here for some reason.)
+ 
+ After the break we went back into the bolger suite. This time we were told to do a slides presentation on rain gardens.
+ Most of us were new to rain gardens and had to look up what they were  beforehand. Me, Keelan and Jeff
+ did our own presentation as a team. I worked on a diagram drawing of a rain garden, so it was nice to
+ have a break from all the writing I did all day.
+ Afterwards me and the lads presented our work in front of the class.
 
 
 
