@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Welcome To My Blog!
 
-* Hello! My name is Sophia Mc Carthy and I'm a St Angelas Ursuline TY student and im taking part in a week of work experience in RedHat
+* Hello! My name is Sophia Mc Carthy and I'm a St Angelas Ursuline TY student and im taking part in a week of work experience in RedHat.
   
 
 
