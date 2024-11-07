@@ -34,17 +34,10 @@ After lunch we met in the Bolger Suite for our next engineering task. We were pu
 
 ## Thursday
 
-**This is the text area where you can enter your blog details for Thursday**.
+We had a stand-up in the Bolger Suite at the beginning of the day, as we have done every day. Today there was breakfast served in the kitchen and we all got to help ourselves to the selection of foods available. After the breakfast, Sean gave us a talk in the Bolger Suite about the different types of AI, machine learning, deep learning and generative AI. He explained how they all work and how thy are all connected. He taught us about the capabilities of AI and how it can be used. After that, Dominik taught us about InstructLab and the work he has been doing on it recently. He taught us about hallucinations in AI where they could make up completely false things if they do not know about what you are asking it, but it is completely confident in it's answer. We were paired up to decide on a topic and contribute on the website, essentially teaching the AI about this topic. We iparted all the information we had collected into a form and submitted it to the website, like a pull request on GitHub, the owners would review the change ypu wish to make and they would merge it, or not, to the main repo to be uploaded on the website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After lunch, we stayed in our pairs and were asked to make small projects on Rain Gardens. We had to research them and design on using AI, and we used image-generating AI to make mages of rain gardens. We used ChatGPT to research the rain gardens and DeepAI to generate images of rain gardens. We made a short slideshow which we presented to the class, along woth a diagram of a functional rain garden. After making our rain garden projects, we were given time to work on our blogs before a call in the Bolger Suite with a
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
----
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
