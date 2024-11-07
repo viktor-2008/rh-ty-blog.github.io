@@ -13,7 +13,7 @@ This will be updated Daily all week.
 
 ## Monday
 
-![
+![potato head](https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/04/toy-story-mr-potato-head.jpg)
 
 
 On Monday morning I arrived at the Red Hat office in Waterford City. We were introduced to the receptionist Becky who is also the office manager. We were assigned desks and we got our very own laptop for the week. We logged into them and connected them to the office wifi. We then entered the Bolger Suite which is a big meeting room. We sat down at the tables and began doing some ice breakers. The game was every person had a celebritys name taped on their back and you had to ask the other yes/no questions to gather info and to be able to guess whos name you had on your back. 
