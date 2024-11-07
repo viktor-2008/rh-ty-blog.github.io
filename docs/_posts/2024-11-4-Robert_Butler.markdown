@@ -65,15 +65,20 @@ To end this wednesday i am here writing my blog in the office area.
 ## Thursday
 ![Red Hat](https://www.postconsumerbrands.com/wp-content/uploads/2024/02/Buy-Now-Page-Header-Image-2048x1365.webp)
 
-**This is the text area where you can enter your blog details for Thursday**.
+We kicked off our day here in red hat with our "stand up" talk with Jen and Pat  and this was followed with the weekly breakfast in the canteen area. I wasnt hungery but there was loads to choose from.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+We then had Sean talk to us about AI as this was todays theme of the day, we disscussed the good with it- the cost effective way of automating tasks and the bad- it is getting rid of peoples jobs
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Types of AI: Generative AI,Machine learning AI and Deep learning AI
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Dominik then talked to us about Instructlab (its like chatgpt) and we helped him with this software he had developed with others. Myself and Alex Created the question when was mariokart 8 released. We then had to put the answer onto this website followed by copied paragraphs of info and we crated other small questions, These were all put up and this now creates the answer for the code domnik made.
+
+In the afternoon Jen got us to do a sustainability presentation on Rain gardens. This was for the purpose of researching about a topic we didnt know about using AI- promt engineering using Perplexity. This AI website was easy to manage and really eay to get answers that are to your needs- in my case very simple, this was easy to get a page worth of information for just myself.
+
+Our last bit of work today was a zoom call with Paulo- he is a f1 fan and wated to create some telemetary about this passion. He used his son playing the f1 game andcreated telemetary of things like speed, engine revs, throttle aplication, brake pressure and G-force. This was very cool that he tied his love for technology and f1 together.
+
+Finally i am writing this blog and am going to the pool room to end thursday.
+
 
 ---
 ## Friday
