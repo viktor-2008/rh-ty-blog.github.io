@@ -26,7 +26,6 @@ We were given an office tour, we went all around the office and saw the differen
 
 ---
 ## Tuesday
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
 **This is what I did on Tuesday**.
 
@@ -41,7 +40,7 @@ We were given an office tour, we went all around the office and saw the differen
 ---
 ## Wednesday
 
-![Straw roller coaster](https://mail.google.com/mail/u/0?ui=2&ik=706641165f&attid=0.2&permmsgid=msg-f:1814991452599647101&th=1930251c22927b7d&view=fimg&fur=ip&permmsgid=msg-f:1814991452599647101&sz=s0-l75-ft&attbid=ANGjdJ97iqtxo1q8ihZ6bJ1sGrMMxkEC4CYcEvJiysbWx6YppsEtgPEQ7_Q3MfFT95py5z6F9xNfUcvbV7RB0b21nXXN1wqmfPiuw_DTH5ReFBOCmY1sCXtXZdJakRs&disp=emb&realattid=ii_19302515398f708f1912&zw)
+![1000006940](https://github.com/user-attachments/assets/0eb6c990-1e37-4eb4-be07-c162ae162fca)
 **This is what I did on Wednesday**.
 
 *We started off our day with  our stand up again where we talk about what we did the previous day and what we like and didn' like or if we had any issue's.*
@@ -58,7 +57,7 @@ We were given an office tour, we went all around the office and saw the differen
 
 *For last part of the day I spent a bit writing in this blog to talk about my day*
 
-![Straw roller coaster](https://mail.google.com/mail/u/0?ui=2&ik=706641165f&attid=0.1&permmsgid=msg-f:1814991452599647101&th=1930251c22927b7d&view=fimg&fur=ip&permmsgid=msg-f:1814991452599647101&sz=s0-l75-ft&attbid=ANGjdJ-svGLgmF726qL7E9_vOPyoa34N9jSyrywBQcdGfJhDYi-T8z5y7FyhQV7uAZyHeYkGbBxsVNLKpKOtLDpWpRtKZdaQMi-b6FOYXNnjU4eId4dRGNIXdsoaKGM&disp=emb&realattid=ii_19302512619f71709121&zw) 
+![1000006941](https://github.com/user-attachments/assets/ba79cde3-5198-4496-94d2-8497cef61a7c)
 
 ---
 ## Thursday
@@ -88,5 +87,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices d
 
 Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
----
+
 

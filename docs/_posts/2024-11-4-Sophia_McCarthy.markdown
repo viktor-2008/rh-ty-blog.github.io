@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Welcome To My Blog!
 
-* Hello! My name is Sophia Mc Carthy and I'm a St Angelas Ursuline TY student and im taking part in a week of work experience in RedHat
+* Hello! My name is Sophia Mc Carthy and I'm a St Angelas Ursuline TY student and im taking part in a week of work experience in RedHat.
   
 
 
@@ -44,17 +44,10 @@ Mine unfortunetly didnt work that well but it looked cool1
 
 ---
 ## Thursday
-![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
+Today we started the morning doing the stand up per usual and voiced what we did the day before and any issues.
+Then we got sent back to our offices to work on our blogs
+In the  evening we are getting a talk about Artificial Intelligence (AI) 
 
-**This is the text area where you can enter your blog details for Thursday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 ---
 ## Friday
