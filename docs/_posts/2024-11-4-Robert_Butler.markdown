@@ -71,10 +71,13 @@ We then had Sean talk to us about AI as this was todays theme of the day, we dis
 
 Types of AI: Generative AI,Machine learning AI and Deep learning AI
 
-Dominik then talked to us about Instructlab (its like chatgpt) and we helped him with this software he had developed with others. Myself and 
-Alex Created the question when was mariokart 8 released. We then had to put the answer onto this website followed by copied paragraphs of info and we crated other small questions, These were all put up and this now creates the answer for the code domnik made.
+Dominik then talked to us about Instructlab (its like chatgpt) and we helped him with this software he had developed with others. Myself and Alex Created the question when was mariokart 8 released. We then had to put the answer onto this website followed by copied paragraphs of info and we crated other small questions, These were all put up and this now creates the answer for the code domnik made.
 
 In the afternoon Jen got us to do a sustainability presentation on Rain gardens. This was for the purpose of researching about a topic we didnt know about using AI- promt engineering using Perplexity. This AI website was easy to manage and really eay to get answers that are to your needs- in my case very simple, this was easy to get a page worth of information for just myself.
+
+Our last bit of work today was a zoom call with Paulo- he is a f1 fan and wated to create some telemetary about this passion. He used his son playing the f1 game andcreated telemetary of things like speed, engine revs, throttle aplication, brake pressure and G-force. This was very cool that he tied his love for technology and f1 together.
+
+Finally i am writing this blog and am going to the pool room to end thursday.
 
 
 ---
