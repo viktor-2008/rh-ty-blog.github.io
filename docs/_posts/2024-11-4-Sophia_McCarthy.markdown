@@ -46,7 +46,11 @@ Mine unfortunetly didnt work that well but it looked cool1
 ## Thursday
 Today we started the morning doing the stand up per usual and voiced what we did the day before and any issues.
 Then we got sent back to our offices to work on our blogs
-In the  evening we are getting a talk about Artificial Intelligence (AI) 
+In the  evening we are getting a talk about Artificial Intelligence (AI) from Sean and Domonik which i found very educational.
+we also got to kind of program our own Ai chat bots, we picked a topic and had to nake questions and answer them which we did in pairs
+After lunch we had to make a project on Rain Gardens and use Ai to make the presentation which we did in the same pairs and we had to present them infront of everyone.
+Then we had a zoom call with a man from Italy talking about the use of AI with cars 
+
 
 
 ---
