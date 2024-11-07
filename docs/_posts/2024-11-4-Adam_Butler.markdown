@@ -94,17 +94,28 @@ For the end of the day, we were set with the task of building a roller coaster o
 
 ---
 ## Thursday
-![Red Hat room](https://www.adrianseglobal.com/assets/p1_i4.png)
 
-**This is the text area where you can enter your blog details for Thursday**.
+**Thursday Morning**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Thursday morning we had breakfast with all the staff in Red Hats office. We had an amazing breakfast and later had talk with Sean, an employee at Red Hat. about AI and the different types of AI. We learned how AI is used in everyday life and how companies need massive computers to efficiently generate this type of AI in massive AI computer centers.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+**Types of AI**
+* Generative AI
+* Machine Learning
+* Deep Learning
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+![InstructAi](https://i0.wp.com/livingopensource.org/wp-content/uploads/2024/05/instructlab-banner-1.png?fit=480%2C252&ssl=1)
+
+Later we talked with dominic about InstructLab one of Red Hats open source projects. All of us in the TY program tested this new software by contributing with new information for the AI to learn. This means that when a user asks the AI a question relating to the topics we contributed with , it will answer with the prompts we provided for specific questions
+
+**Thursday Afternoon**
+
+After lunch, we set out producing a rain garden using AI. I was partnered with Oisin, and we set out to produce a rain garden for the Red Hat office in Waterford. Our design consisted of a sloped roof on the main office building with a drain for the runoff rain. This rain is then collected from the drain and then stored in a tank underneath the surface. Once the tank reaches full capacity and the weather turns sunny, a solar panel then sends a message to the tank to allow water to flow to the sprinkler system, and then sprinklers are powered by the solar panel, allowing water to reach the plants during sunny weather.
+
+**Thursday Evening**
+
+For our last gathering, we were on a Zoom call with Paulo, one of Red Hats employees from Italy. A massive Ferrari and Formula One fan who showed us how Red Hats telemetry software could be used to read telemetry data within the Formula One game.
+Paulo showed us a video of him working on a small project with his son by reading the telemetry data coming from the game and telling us various stats like speed, engine temperature, weather, brake force, throttle force, and lap times, all of which use telemetry data. This is the same software that Formula One engineers use in the pit box for live analytics.
 
 ---
 ## Friday
