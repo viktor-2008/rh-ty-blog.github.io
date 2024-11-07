@@ -97,8 +97,7 @@ For the end of the day, we were set with the task of building a roller coaster o
 
 **Thursday Morning**.
 
-Thursday mroning we had breakfast with all the staff in Red Hats office. We had an amazing brakfast and later had talk with Sean an employee at Red Hat 
-about AI and the different types of AI.
+Thursday morning we had breakfast with all the staff in Red Hats office. We had an amazing breakfast and later had talk with Sean, an employee at Red Hat. about AI and the different types of AI. We learned how AI is used in everyday life and how companies need massive computers to efficiently generate this type of AI in massive AI computer centers.
 
 **Types of AI**
 * Generative AI
@@ -111,7 +110,7 @@ Later we talked with dominic about InstructLab one of Red Hats open source proje
 
 **Thursday Afternoon**
 
-
+After lunch, we set out producing a rain garden using AI. I was partnered with Oisin, and we set out to produce a rain garden for the Red Hat office in Waterford. Our design consisted of a sloped roof on the main office building with a drain for the runoff rain. This rain is then collected from the drain and then stored in a tank underneath the surface. Once the tank reaches full capacity and the weather turns sunny, a solar panel then sends a message to the tank to allow water to flow to the sprinkler system, and then sprinklers are powered by the solar panel, allowing water to reach the plants during sunny weather.
 
 ---
 ## Friday
