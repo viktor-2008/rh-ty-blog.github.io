@@ -73,6 +73,8 @@ We were given an office tour, we went all around the office and saw the differen
 
 *After lunch we had to make a presentation about Rain garden using ai pictures and information I was paired up with Jack and we made a powerpoint and used ChatGPT for our information and we used deep ai for the pictures.*
 
+*At the end of the day we had a talk with Poalo on a zoom call in italy and he was talking about F1 and how he can watch the stats from his sons Xbox game from online sources which I found quite interesting and would like to see more about it in the future.*
+
 ---
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
