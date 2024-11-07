@@ -12,7 +12,7 @@ This will be updated Daily all week.
 
 
 ## Monday
-![Red Hat Office](https://static.wikia.nocookie.net/p__/images/2/26/Mr._Potato_Head.png/revision/latest?cb=20230830170518&path-prefix=protagonist)
+![pool table](https://media.istockphoto.com/id/149409557/photo/composition-of-billiard.jpg?s=612x612&w=0&k=20&c=Wn6B7acze4xG4TX1S3vusu8nC88nYJBy2_xYhdRNpKU=) 
 
 On Monday morning I arrived at the Red Hat office in Waterford City. We were introduced to the receptionist Becky who is also the office manager. We were assigned desks and we got our very own laptop for the week. We logged into them and connected them to the office wifi. We then entered the Bolger Suite which is a big meeting room. We sat down at the tables and began doing some ice breakers. The game was every person had a celebritys name taped on their back and you had to ask the other yes/no questions to gather info and to be able to guess whos name you had on your back. 
 
