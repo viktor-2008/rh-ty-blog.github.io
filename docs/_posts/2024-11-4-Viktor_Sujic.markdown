@@ -95,15 +95,27 @@ I had some time afterwards to work on these blogs and left at 5:00.
 ## Thursday
 ![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
 
-**This is the text area where you can enter your blog details for Thursday**.
+## Thursday, November 7th, 2024.
+---------------------------------
+I came in around 8:45 AM. The lads weren't playing pool this morning but I still rolled a few balls. 
+Our stand-ups were a disappointment when we found out there were no smoothies left in the fridge.
+After a short stand-up we had time to work on our blogs again until 10:10.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+At 10:10 we came into the kitchen where we, for the first time this week, got breakfast. We had
+sausages, bacon, some strange egg concoctions and hash browns.
+We , fortunately, got plenty of time to eat and hang out in the canteen. I made myself some ramen.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Then, after 10:45 we came back into the bolger suite and Shawn showed us a
+presentation on AI. We learned about how AI learns, the history of AI, and the
+different types of AI- Generative, memory, pattern.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+We came back in after a break and Dominik showed us InstructLab - a chatbot-and we got to give it informstion
+about whatever we want- be it a new movie, game or show.
+I chose to tell it about the Barbie movie.
+But it was a very tedious
+
+
+
 
 ---
 ## Friday
