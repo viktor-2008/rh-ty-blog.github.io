@@ -94,17 +94,24 @@ For the end of the day, we were set with the task of building a roller coaster o
 
 ---
 ## Thursday
-![Red Hat room](https://www.adrianseglobal.com/assets/p1_i4.png)
 
-**This is the text area where you can enter your blog details for Thursday**.
+**Thursday Morning**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Thursday mroning we had breakfast with all the staff in Red Hats office. We had an amazing brakfast and later had talk with Sean an employee at Red Hat 
+about AI and the different types of AI.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+**Types of AI**
+* Generative AI
+* Machine Learning
+* Deep Learning
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+![InstructAi](https://i0.wp.com/livingopensource.org/wp-content/uploads/2024/05/instructlab-banner-1.png?fit=480%2C252&ssl=1)
+
+Later we talked with dominic about InstructLab one of Red Hats open source projects. All of us in the TY program tested this new software by contributing with new information for the AI to learn. This means that when a user asks the AI a question relating to the topics we contributed with , it will answer with the prompts we provided for specific questions
+
+**Thursday Afternoon**
+
+
 
 ---
 ## Friday
