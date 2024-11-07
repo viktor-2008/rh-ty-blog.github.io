@@ -71,27 +71,25 @@ We also spoke with Oxona, who came to Ireland 2 years ago from Ukraine; she gave
 ![Red Hat Tys](https://www.adrianseglobal.com/assets/p1_i4.png)
 
 
-**Wednesday Morning**.
 
-All of us in the TY program met up in one of Red Hat's conference rooms, where we were on video call to Kevin Quinn, the senior technical writer for Red Hat. We were also accompanied by James Mernin.
-and Gen, who is in charge of the TY program.
+**Wednesday Morning**
+
+All of us in the TY program met up in one of Red Hat's conference rooms, where we were on video call to Kevin Quinn, the senior technical writer for Red Hat. We were also accompanied by James Mernin. and Gen, who is in charge of the TY program.
 
 **What we talked about**
-* Present, future, or past of technology
+
+* Present, future, and past of technology
 * Servers
 * Leading global companies
 * Careers in tech
 
-Throughout the session, we talked a lot about how companies set out with a goal, and in a lot of cases, they accomplish more than intended. For example, Amazon originally set out selling books.
-But once they started gaining traction and were in need of servers to run their website and background processes, they realized it was more efficient to let others use their servers.
-during slow parts and times of the day. This is how Amazon Web Services was made. Another example is Nvidia, a company that consisted of making GPUs for gaming and now has a major business in AI.
-and servers as companies globally use their powerful graphics cards.
+Throughout the session, we talked a lot about how companies set out with a goal, and in a lot of cases, they accomplish more than intended. For example, Amazon originally set out selling books. But once they started gaining traction and selling various products, they were in need of servers to run their website and background processes. They realized it was more efficient to let others use their servers. during slow parts and times of the day. This is how Amazon Web Services was made and was another source of income for Amazon.
+
+Another example is Nvidia, a company that consisted of producing GPUs for gaming but now has a major business in AI. and servers, as companies globally are now using their powerful graphics cards. This has resulted in their stock price going through the roof.
 
 **Engineering task**
 
-For the end of the day, we were set with the task of building a roller coaster out of straws and SD tape, and we needed to have a 360-degree loop included. So our team myself, Riona and Jeff, had a promising
-start, but right at the last 20 minutes the project fell apart, but we learned lots about what works and does not work and how to work as a team. We also had visitors who judged all of our projects.
-
+For the end of the day, we were set with the task of building a roller coaster out of straws and tape, and we needed to have a 360-degree loop included. So our team myself, Riona and Jeff, had a promising start, but right at the last 20 minutes the project fell apart, but we learned lots about what works and what doesn't work and how to work as a team. We also had visitors from the states who judged all of our projects.
 
 
 ---

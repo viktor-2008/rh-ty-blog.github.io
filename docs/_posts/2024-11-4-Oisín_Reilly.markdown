@@ -12,7 +12,7 @@ This will be updated Daily all week.
 
 
 ## Monday
-![Red Hat Office](https://static.wikia.nocookie.net/disney/images/5/55/Profile_-_Mr._Potato_Head.jpeg/revision/latest?cb=20190313050826)
+![pool table](https://media.istockphoto.com/id/149409557/photo/composition-of-billiard.jpg?s=612x612&w=0&k=20&c=Wn6B7acze4xG4TX1S3vusu8nC88nYJBy2_xYhdRNpKU=) 
 
 On Monday morning I arrived at the Red Hat office in Waterford City. We were introduced to the receptionist Becky who is also the office manager. We were assigned desks and we got our very own laptop for the week. We logged into them and connected them to the office wifi. We then entered the Bolger Suite which is a big meeting room. We sat down at the tables and began doing some ice breakers. The game was every person had a celebritys name taped on their back and you had to ask the other yes/no questions to gather info and to be able to guess whos name you had on your back. 
 
@@ -67,6 +67,9 @@ Throughout the day we helped ourseleves with the free snacks and drinks from the
  We then had James speaking to us about lots of different things such as the web, servers, future in technology, and what people are working on at the moment. We had a quick quiz at the start and me and robert were on a team and we almost got evry question right. James spoke about servers which i found inteeresting because they are what run all the pcs in red hat and in other places. We also had another red hat employee from northeren ireland who is also living in northeren ireland speaking a bit about what he does in red hat
 
  We then had some free time and played some pool the games in the tournament todyay were me vs vicotor, cian vs robert, alex vs jeff. I won my match so that puts me joint lead.
+
+
+ WE then had a task where we had a marshmallow some raw spaghettiand some string and tape. The goal was to get the marshmallow as high off the table as possible. I was on team 3 with jack. We struggled at first beacause our spaghetti kept snapping and then jack messed about with some paper and created a sturdy looking structure that could possibly be the bass of our tower. We then made a teepee design with the spaghetti and sat the marshmallow on top of that. Jen then measured our tower and it was 20 inches
 
  
 
