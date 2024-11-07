@@ -34,16 +34,13 @@ Overall, I had a great second day here at Red Hat and thankfully I will be able 
 ## Wednesday
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
+Day 3 at Red hat was mainly focused arounf engineering and teamwork. at 10am we had started our blogs a little early just to get ahead. Then we had a small meeting about the importance of teamwork at around 11am which taught us what type of trust and relience you need to work with others in an efficent manner. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+At around 12pm we had a funny challenge of making a structure out of dry spaghetti and attach a marshmallow ontop and made sure it didn't fall. While we didn't win, it was still a lot of fun. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+After lunch we were tasked to, within two hours, make a rollercoaster for a ball with a 360 degrees loop and after s long while, my team and I had completed it and had won the competition which we then decided to put it on display in the canteen.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+Overall, today was great fun and helped us have fun while teaching us about what it means to work on an idea in a team.
 
 ---
 ## Thursday
