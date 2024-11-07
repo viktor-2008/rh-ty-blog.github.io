@@ -55,7 +55,7 @@ Throughout the day we helped ourseleves with the free snacks and drinks from the
 
 ---
 ## Wednesday
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
+![roller coaster](https://media.istockphoto.com/id/186293315/photo/looping-roller-coaster.jpg?s=612x612&w=0&k=20&c=r0Uq8QvhEjoFOodlgaD_5gMOYOF4rbFxKIp6UOFrcJA=)
 
  Today as usaual i arrived in the office at 09:24 so i had 6 minutes to read the white board and to meet the lads. I opened the door and robert and alex greeted me into the office. We took a walk to the pool room and then visited the bolger suite for our second stand up. We mentioned what we did yesterday and mentioned that some of the monitors werent working and that there was no smoothies stocked in the fridge. We asked Jen to see if there was any smoothies in the food supply room.
 
@@ -71,30 +71,40 @@ Throughout the day we helped ourseleves with the free snacks and drinks from the
  We then had some free time and played some pool the games in the tournament todyay were me vs vicotor, cian vs robert, alex vs jeff. I won my match so that puts me joint lead.
 
 
-  WE then had a task where we had a marshmallow some raw spaghettiand some string and tape. The goal was to get the marshmallow as high off the table as possible. I was on team 3 with jack. We struggled at first beacause our spaghetti kept snapping and then jack messed about with some paper and created a sturdy looking structure that could possibly be the bass of our tower. We then made a teepee design with the spaghetti and sat the marshmallow on top of that. Jen then measured our tower and it was 20 inches. Then we had to do the task again but now we could use other peoples ideas as an example of open source code. WE then used our same idea but we reinforced our spaghetti by taping multiple pieces together so that it would be stronger
+  WE then had a task where we had a marshmallow some raw spaghetti and some string and tape. The goal was to get the marshmallow as high off the table as possible. I was on team 3 with jack. We struggled at first beacause our spaghetti kept snapping and then jack messed about with some paper and created a sturdy looking structure that could possibly be the bass of our tower. We then made a teepee design with the spaghetti and sat the marshmallow on top of that. Jen then measured our tower and it was 20 inches. Then we had to do the task again but now we could use other peoples ideas as an example of open source code. WE then used our same idea but we reinforced our spaghetti by taping multiple pieces together so that it would be stronger
 
-  We then had an engineering task where we had to create a roller coaster out of paper straws and tape. The rolercoaster had to have a 360 loop in it that the ball ahd to travel around me and the lads figured out that we didnt have to stand the loop up straight so we put it vertical. Our team consisted of me, Jack, RObert and keelan. Although we had some technical issues with the tape and the cutting ratio, we got there in the end. Rob had an amazing idea of putting the loop inside a box to give a lot nore structural support. We had american redhat visitors in to judge our coasters but im certain that wasnt the reason they were here. We had to demonstrate our coastes actios to judges and ours successfully went all the way into the box we had taped to the desk. We took a photo with the team onfront of our creation
+  We then had an engineering task where we had to create a roller coaster out of paper straws and tape. The rolercoaster had to have a 360 loop in it that the ball ahd to travel around me and the lads figured out that we didnt have to stand the loop up straight so we put it vertical. Our team consisted of me, Jack, RObert and keelan. Although we had some technical issues with the tape and the cutting ratio, we got there in the end. Rob had an amazing idea of putting the loop inside a box to give a lot nore structural support. We had american redhat visitors in to judge our coasters but im certain that wasnt the reason they were here. We had to demonstrate our coastes actios to judges and ours successfully went all the way into the box we had taped to the desk. We took a photo with the team on front of our creation and moved to the kitchen to put it on display for evryone for tomorrow morning.
 
- 
 
+Then we did some work on the blogs to finish off the day and robert made me finish early.
 
 
 
 
 ---
 ## Thursday
-![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
 
-**This is the text area where you can enter your blog details for Thursday**.
+![battlefront](https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/lOh528s3J3zcjOn8x8tn0iQyPlkIIfP7.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
+As usual i entered the office at 9;30 and had to go to the bolger suite for my last stand up as i wont be in tomorrow. I mentioned that we won the rollercoaster project yesterday when the judges came in.
+we then went straight to the desks to wrte our blog where i met alex and robert chatting at there desks. I grabbed a quick drink while i was there.
+
+ We then got breakfast as today was thursday and the office gets breakfast delivered in on thursdays. As we finished Jen called s into the bulger suite as sean was going to gives us a talk on AI. He named the upsides and downsides to ai and a cheap way of automating tasks and even writing essays... 
+
+ After that we had dominik in to do an ai based project. WE had to choose a topic i chose a game called battlefront 2. Instructlab was the name of the ai tool we were using. WE asked a question on our topic to the ai and if it didnt give us a straight anwser we had to feed it information. WE had to search on wikipedia facts and stats or even tables on our topics. We had to put all our data on the topic into our ai tool so that this ai could tool could take all this info and learn about the topic. Then when you ask a question after the ai had taken the data out of your script it needs to answer your answer.
+
+After that me and robert messed about with our wallpaper on our laptops. Then it was lunch. Me cian and adam went to the shop then to grab a chicken roll for our lunch. When we came back we played a small game of pool but robert beat me :( 
+
+We then had a duo project on rain gardens. Me and Adam were together. We designed a rain garden for big corporate buildings such as the red hat buildings in the states. I drew a diogram of our plan based on what we decided a rain garden needs. WE designed it so that he gutters on the building gathr water into a tank. We also had a solar panel to power water sprinklers connected to the tank i mentioed before. These sprinklers were only activated when the plants needed water so that the plants wouldnt drown. After we gathered info on rain gardens we put it all into slides
+
+
+
+
+
+ 
 ---
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
