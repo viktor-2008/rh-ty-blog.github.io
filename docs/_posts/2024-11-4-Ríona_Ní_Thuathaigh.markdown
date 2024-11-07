@@ -22,18 +22,13 @@ After that we had lunch break for an hour and after lunch we reconvined in the B
 
 ---
 ## Wednesday
-**This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Wednesday was an engineering day and we did tasks based on engineering. Firstly we did a stand-up in the Bolger Suite as we did yesterday. Anyone who had forgotten to do their blogs the day beforw got time to work on their blogs at their desks. After that we had a history of computing talk in Tuskar where James and a man called Kevin, explained how computing has come to be. Then we did a task in the canteen where we were given an envelope with spaghetti and a marshmallow and a string in it and we were tasked to make the marshmallow as far from the tabe as possible using only those items. The first ground, the group I was in won, with a total of 20 inches off the tabel. After that we did another round, which Jen used to explain the concept of open source coding and that others could now use our idea to use and tweak for themselves. In the next round, we built on our idea to make a stronger, and taller, build. We won again with a total of 31 inches off the table.
+After lunch we met in the Bolger Suite for our next engineering task. We were put into different groups and given straws, paper, scissors, tape and a ball. We were told to make a rollercoaster for the ball which should include a 360 degree loop. We were told that "V.I.P" guests from America would come in to judge our rollercoasters. We started working an our build was looking promising and was quite sturdy, but after about an hour it all started to fall apart. We ended up with half of what we originally planned on, because it all fell apart. The guests came and judged our projcts and safe to say, we didn't win. The we filled in our blogs again and went home.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+![Snapchat-1424209791](https://github.com/user-attachments/assets/2ff1c470-ec4f-46af-9c02-4ee6603f187c)
 
 
----
 ## Thursday
 
 **This is the text area where you can enter your blog details for Thursday**.
