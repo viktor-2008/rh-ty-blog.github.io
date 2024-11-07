@@ -61,7 +61,7 @@ We started of the morning with another standup where Jen, Pat and Dominique expl
 After breakfast we had Evan come and talk to us about AI and different uses of it. We could tell he was nervous because his mind started to slip. Right after we had a talk with Dominque where he continued with Ai and then got us to make our own AI. Me and Cian were partnered up and we did our one on Spiderman. It took a while as there were loads to do but soon it was lunch and we got to leave.
 
 After Lunch, Jen had us do a project on sustainability where Cian and i were back at it again to drop another banger. we had an hour to do so and after we sat and watched everybody elses presentations.
-After we went back to work on our blogs for abit and then we would go to listen tosomeone speak about sports.
+After we went back to work on our blogs for abit and then we would go to listen to someone speak about sports.
 
 
 
