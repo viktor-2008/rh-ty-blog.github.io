@@ -29,7 +29,7 @@ Shortly after this we started working on our blogs and we had to sit down in our
 we finished our monday blogs on Github and got them updated to the website and we got shown how to use github a bit more
 And after lunch we got a talk about women in tech which was very education and being a girl myself it was nice talking to someone who was trying to get into a male dominated work space
 
-##
+## Wednesday
 Today was Engineers Day, so in the morning we had another stand-up meeting talking about what we had done the last day. 
 Then we got a long break, and in the cafateria we got given a brown envelope that had spaghetti, a marshmellow, string, tape, and scissors.
 With these items, we had to make a tower with the marshmellow on top, and it had to stand by itself, and whoever made the tallest tower wins.
