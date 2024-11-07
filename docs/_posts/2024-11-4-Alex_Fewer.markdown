@@ -92,6 +92,8 @@ After lunch, we had make a presentation about sustainability in terms of a rain 
 
 After that, we got a break to continue working on our blogs as I am doing now. After this, we will be going back to the Bolger Suite to get a talk from a man from Italy.
 
+Finishing off the blog for today, the Italian, Paulo, gave us a talk via Zoom about Sports Telemetry and how all the data in transferred, particularly in Formula 1 which Robert found interesting. I saw him writing down a lot of stuff. He showed us a PowerPoint and also a video of the data actively showing while his son was playing a Formula 1 game. Now it's time for me to go home athalf 4 as I am now finished my blog.
+
 ---
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
