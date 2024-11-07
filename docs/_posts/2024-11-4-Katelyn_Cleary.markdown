@@ -20,8 +20,6 @@ We then learned about agile and played  team game with mr. potato heads, and we 
 ## Tuesday
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Tuesday**.
-
 At 9:30 we did stand up, we talked about what we did the day before. Pat showed us some code on Bash, and how it all works and the technicalities behind it. After lunch, we learned about student life. We talked about what college is like, and how you should pick a course that you have intrest in.
 After that, we talked about women in tech. There is now a big push for women to work in tech because there is not as many. After that we did our blog then went home.
 
@@ -30,17 +28,13 @@ After that, we talked about women in tech. There is now a big push for women to 
 ## Wednesday
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
-
 In the morning we did stand up,  then we did history of computing, then we did and engineering task - trying to build towers out of pasta and making a marshmallow balance on top of it. After lunch we did something similar but we had to make a rollercoaster out of paper straws and have a 360 degree loop that works.
 
 ---
 ## Thursday
 ![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
 
-**This is the text area where you can enter your blog details for Thursday**.
-
-
+In the morning we did stand up and talked about what we did the day before. Sean gave us a talk about AI and the history of AI. Dominik then gave us a talk and a workshop on InstructLab, and we created different AI scenarios and questions. We learned that AI isnt always accurate and sometmes has these things called hallucinations where is gives you false information, and just makes up stuff. We then made a presentation on rain gardens usuing AI and generating images using AI
 
 ---
 ## Friday
