@@ -6,10 +6,7 @@ categories: jekyll update
 ---
 
 ## Welcome To Your Blog!
-hello
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
+
 
 
 ## Monday
@@ -25,7 +22,8 @@ We then learned about agile and played  team game with mr. potato heads, and we 
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-In the morning we did stand up, then we did Bash, then we learned about student life and women in tech.
+At 9:30 we did stand up, we talked about what we did the day before. Pat showed us some code on Bash, and how it all works and the technicalities behind it. After lunch, we learned about student life. We talked about what college is like, and how you should pick a course that you have intrest in.
+After that, we talked about women in tech. There is now a big push for women to work in tech because there is not as many. After that we did our blog then went home.
 
 
 ---
@@ -42,13 +40,7 @@ In the morning we did stand up,  then we did history of computing, then we did a
 
 **This is the text area where you can enter your blog details for Thursday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 ---
 ## Friday
