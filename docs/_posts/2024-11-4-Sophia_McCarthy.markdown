@@ -46,6 +46,8 @@ Mine unfortunetly didnt work that well but it looked cool1
 ## Thursday
 Today we started the morning doing the stand up per usual and voiced what we did the day before and any issues.
 Then we got sent back to our offices to work on our blogs
+In the  evening we are getting a talk about Artificial Intelligence (AI) 
+
 
 ---
 ## Friday
