@@ -166,7 +166,7 @@ After a few race-offs, Adam's team won.
 And now I'm sitting at my desk, finishing off this blog.
 I have nothing else left to show you but my desktop wallpaper-
 
-(https://preview.redd.it/why-does-richard-nixon-have-some-of-the-goofiest-and-v0-stu9da161aec1.png?width=216&format=png&auto=webp&s=37d7fd19170b04a9f101871f390e1c36e4d436a1)
+(https://preview.redd.it/why-does-richard-nixon-have-some-of-the-goofiest-and-v0-stu9da161aec1.png)
 
 
 
