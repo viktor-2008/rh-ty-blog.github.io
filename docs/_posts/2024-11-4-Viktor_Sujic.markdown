@@ -123,6 +123,12 @@ After the project we went on our lunch break and stayed there for about an hour.
  did our own presentation as a team. I worked on a diagram drawing of a rain garden, so it was nice to
  have a break from all the writing I did all day.
  Afterwards me and the lads presented our work in front of the class.
+ 
+ The last thing we did was have a video call with a man calling from Italy, and he talked about
+ how he managed to integrate his love of sport and sport statistics, and integrate it
+ into his IT work. He told us about this in a presentation. He also told us about himself.
+
+ I left early at about 4:30.
 
 
 
