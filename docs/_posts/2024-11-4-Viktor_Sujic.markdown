@@ -138,6 +138,39 @@ After the project we went on our lunch break and stayed there for about an hour.
 
 ## Friday, 8th November 2024
 ----------------------------
+Only me, Kaitlin and Sophie came in today, the rest of the lads came in later.
+I played a game of pool with whatshisname and we did our stand-ups in the
+canteen instead of the bolger suite.
+
+When we did come into the bolger suite we sat down and Adam didn't waste any time,
+and gave us all the equipment we needed to build a mini-robot-car-thing.
+I had barely any experience in this sort of thing so 
+the rest of the lads in my team did most of the work.
+In the end we got it working, and I tried to drive it although
+it kept falling on the ground.
+We then had spare time until 12:30. (I worked on my blog) 
+We went into the canteen during our 10-minute break and had jam donuts.
+
+We went back into the bolger suite and talked about our week (or "sprint") and
+wrote up stuff on the board, such as what we liked, what we didn't like and what we'd 
+like to see added. 
+After this we got pizzas in the canteen on our lunchbreak. (Pepperoni, pineapple,ect.)
+I saw the lads playing pool in the pool room.
+
+When we came back in and the race layout was set up , my and the other lads teams started testing out our cars
+on the course.
+All while none other than Pat was watching through video call.
+My team and Adam's team raced against eachother and Adam won by quite literally half a second.
+After a few race-offs, Adam's team won.
+
+And now I'm sitting at my desk, finishing off this blog.
+I have nothing else left to show you but my desktop wallpaper-
+
+https://preview.redd.it/why-does-richard-nixon-have-some-of-the-goofiest-and-v0-stu9da161aec1.png?width=216&format=png&auto=webp&s=37d7fd19170b04a9f101871f390e1c36e4d436a1
+
+
+
+
 
 ---
 
