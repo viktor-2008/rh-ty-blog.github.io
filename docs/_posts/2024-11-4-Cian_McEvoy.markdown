@@ -26,7 +26,6 @@ We were given an office tour, we went all around the office and saw the differen
 
 ---
 ## Tuesday
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
 **This is what I did on Tuesday**.
 
@@ -41,7 +40,7 @@ We were given an office tour, we went all around the office and saw the differen
 ---
 ## Wednesday
 
-![Straw roller coaster](https://mail.google.com/mail/u/0?ui=2&ik=706641165f&attid=0.2&permmsgid=msg-f:1814991452599647101&th=1930251c22927b7d&view=fimg&fur=ip&permmsgid=msg-f:1814991452599647101&sz=s0-l75-ft&attbid=ANGjdJ97iqtxo1q8ihZ6bJ1sGrMMxkEC4CYcEvJiysbWx6YppsEtgPEQ7_Q3MfFT95py5z6F9xNfUcvbV7RB0b21nXXN1wqmfPiuw_DTH5ReFBOCmY1sCXtXZdJakRs&disp=emb&realattid=ii_19302515398f708f1912&zw)
+![1000006940](https://github.com/user-attachments/assets/0eb6c990-1e37-4eb4-be07-c162ae162fca)
 **This is what I did on Wednesday**.
 
 *We started off our day with  our stand up again where we talk about what we did the previous day and what we like and didn' like or if we had any issue's.*
@@ -58,21 +57,23 @@ We were given an office tour, we went all around the office and saw the differen
 
 *For last part of the day I spent a bit writing in this blog to talk about my day*
 
-![Straw roller coaster](https://mail.google.com/mail/u/0?ui=2&ik=706641165f&attid=0.1&permmsgid=msg-f:1814991452599647101&th=1930251c22927b7d&view=fimg&fur=ip&permmsgid=msg-f:1814991452599647101&sz=s0-l75-ft&attbid=ANGjdJ-svGLgmF726qL7E9_vOPyoa34N9jSyrywBQcdGfJhDYi-T8z5y7FyhQV7uAZyHeYkGbBxsVNLKpKOtLDpWpRtKZdaQMi-b6FOYXNnjU4eId4dRGNIXdsoaKGM&disp=emb&realattid=ii_19302512619f71709121&zw) 
+![1000006941](https://github.com/user-attachments/assets/ba79cde3-5198-4496-94d2-8497cef61a7c)
 
 ---
 ## Thursday
-![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
 
-**This is the text area where you can enter your blog details for Thursday**.
+**This is I did on Thursday**.
+*We started our morning with the sand up again there was no complaints after our stand up we worked a biton our blog and fixed anything we messed up on Wednesday*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+*We then had a brekfast buffet and had some sausages and some pudding and wheni was finished my breakfast I had a game of pool with Adam*
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+*After breakfast and pool we had a talk about ai with Seán and Dominik and they each had their own talk, Seán spoke about generative ai, machine learning ai and deep ai and then Dominik spoke to us about the benifits of ai and the problem with ai.*
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+*Then for our lunch myself, Oisín and Adam went down to the nearby deli and got some lunch and when we got back we played some more pool*
+
+*After lunch we had to make a presentation about Rain garden using ai pictures and information I was paired up with Jack and we made a powerpoint and used ChatGPT for our information and we used deep ai for the pictures.*
+
+*At the end of the day we had a talk with Poalo on a zoom call in italy and he was talking about F1 and how he can watch the stats from his sons Xbox game from online sources which I found quite interesting and would like to see more about it in the future.*
 
 ---
 ## Friday
@@ -88,5 +89,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices d
 
 Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
----
+
 

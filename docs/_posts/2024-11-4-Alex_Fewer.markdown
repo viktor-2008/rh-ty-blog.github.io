@@ -82,15 +82,17 @@ The roller coasters took quite a while so we didn't get to finish as early as th
 ## Thursday
 ![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
 
-**This is the text area where you can enter your blog details for Thursday**.
+I came in today not feeling worried about the day, I was rather just tired but glad i didn't find the week too bad. At half 9 we had our daily stand up meeting where we duscussed what we did yesterday. We're goinng to get free breakfast at 10 past 10 today once the other staff have gotten their food first.  I had 3 sausages because I wasn't too hungry as I already had breakfast this morning. They were very good sausages.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After breakfast, we went into the Bolger Suite and we got a talk about AI from Sean as today is our AI Day, like yesterday was our engineering day. I can't remember much about what he said as I am very tired but I know he went over different types of Ai and what they do. Next we had a talk from Dominic about an AI service that he and a group of other Red Hat employees had been working on called InstructLab. It was still in Beta as it had only been released 3 weeks ago so it didn't have much information on newer stuff. Dominic showed an example of that by asking it about the fairly recent album from Charli XCX called Brat. I can't express how much I hate that album afte being forced to listen to it in full every day while working at Golden Discs. I also tested the Ai with the most recent Twenty One Pilots album called Clancy and it didn't have anything on that either. Dominic tasked us with writing up information about something to add to the AI's database, preferrably not political or religious, so that the AI had more information when people ask questions. Me and Robert wrote up about Mario Kart 8 as we had been playing it all week. It was weird that it had nothing on it considering it ccame out in 2014.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+After the talks, we had lunch where we played more pool. How surprising! We let Oisin play muliple games as today will be his last day since he unfortunately wwon't be here tomorrow. I believe he won both of his games. He's quite good at pool. We had fun as usual and joked about. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+After lunch, we had make a presentation about sustainability in terms of a rain garden. I was paired with Robert again and we had to use AI to gather our information and or pictures. Me and Robert used Perplexity AI to find our information and simplify or expand on it. Other people used Deep AI or Chat GPT. We were the only ones who didn't make a PowerPoint presentation and used paper instead because none of our Microsoft accounts were letting us sign in for some reason. I tried both of my accounts and it said the two different passwords were wrong. Presenting it wasn't too bad and ours was actually one of the longer ones.
+
+After that, we got a break to continue working on our blogs as I am doing now. After this, we will be going back to the Bolger Suite to get a talk from a man from Italy.
+
+Finishing off the blog for today, the Italian, Paulo, gave us a talk via Zoom about Sports Telemetry and how all the data in transferred, particularly in Formula 1 which Robert found interesting. I saw him writing down a lot of stuff. He showed us a PowerPoint and also a video of the data actively showing while his son was playing a Formula 1 game. Now it's time for me to go home athalf 4 as I am now finished my blog.
 
 ---
 ## Friday

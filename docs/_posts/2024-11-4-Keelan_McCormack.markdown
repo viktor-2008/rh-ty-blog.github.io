@@ -34,7 +34,7 @@ Overall, I had a great second day here at Red Hat and thankfully I will be able 
 ## Wednesday
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-Day 3 at Red hat was mainly focused arounf engineering and teamwork. at 10am we had started our blogs a little early just to get ahead. Then we had a small meeting about the importance of teamwork at around 11am which taught us what type of trust and relience you need to work with others in an efficent manner. 
+Day 3 at Red hat was mainly focused arounf engineering and teamwork. at 10am we had started our blogs a little early just to get ahead. Then we had a small meeting about both the importance of teamwork at around 11am which taught us what type of trust and relience you need to work with others in an efficent manner and a small bit of history in engineering.
 
 At around 12pm we had a funny challenge of making a structure out of dry spaghetti and attach a marshmallow ontop and made sure it didn't fall. While we didn't win, it was still a lot of fun. 
 
@@ -46,15 +46,13 @@ Overall, today was great fun and helped us have fun while teaching us about what
 ## Thursday
 ![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
 
-**This is the text area where you can enter your blog details for Thursday**.
+Day 4 at red hat was an A.I based day in which we took part in presentations and learned how an A.I works due to its coding.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+At 10:45am we learned about the specfic types of A.I those being: 1. Artificial narrow intelligence, which is something used for small knowledge. 2. Artificial general intelligence which is for more general knowledge and 3. Artificial super intelligence which is for precise and direct knowledge
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+We also used A.I websites to write a slideshow on rain gardens in which we used chatgpt to help us and overall it was quite fun and a little silly sometimes with the answers we got. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+I had great fun today since I am a big fan of A.I in itself and hopefully I'd get to work more on it in the future.
 
 ---
 ## Friday

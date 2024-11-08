@@ -11,7 +11,7 @@ categories: jekyll update
 
 
 ## Monday
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/04/toy-story-mr-potato-head.jpg)
 
 I arrived at Red Hat just before 10 and the first thing I did at red hat was meet the other 13 students everyone was quiete at first. once everyone arived we were all assigned our own desk with a laptop for the week. We all got to know eachother and met up in the bolger suite and played a few icebreaker games like guessing the celebrity on your back and saying the most intresting fact about yourself, these were extremely fun and made us all have a good laugh. James is the boss and he told us about how ibm own this company and their working ethos etc. The lads here are all sound and we went for a tour of the office together here at Red Hat waterord withone of the workers, Beckie, its very big with over 100 employees in this location alone. We quickly found out there is a free snack bar with loads of sweets and fizzys conveniently beside the gaming area and the pool table. We did i a mini mariokart competition and relaxed for the morning and got used to our surrounding for our week ahead. My favourite employee at this point was james as he was good crack and also likes f1 and ferrari like myself.
 
@@ -25,7 +25,7 @@ Overall day 1 of my week here was very relaxed and more of an introduction and p
 
 ---
 ## Tuesday
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Red Hat](https://plus.unsplash.com/premium_photo-1661331617718-e99db3b0e64f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGFwdG9wJTIwY29kZXxlbnwwfHwwfHx8MA%3D%3D)
 
 **My first real day working here at Red Hat**
 
@@ -46,11 +46,11 @@ To end the day im now writing todas blog and am now finished so ill play a bit o
 
 ---
 ## Wednesday
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
+![Red Hat Tys](https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_11958(1).jpg)
 
 I came in this morning and met up with Alex, Oisin, and Jack and we headed to the Bolger suite for our daily discussion about tuesday and what we can do to make today better. A few people had problems with their monitors so we got the fixed and on an uniportant note we ran out of smoothies- Oisin is devistated
 
-At 10:30 we got an important tallk in the Tuskar room about the history of the web, servers and jobs in computers- all the jobs can be so different and its reaaly nice that you can change role in Red Hat and make sure you really are happy in your position James encouraged us to ask him questions but we talked about so many things i had no questions for him.
+At 10:30 we got an important tallk in the Tuskar room about the history of the web, servers and jobs in computers- all the jobs can be so different and its reaaly nice that you can change role in Red Hat and make sure you really are happy in your position James encouraged us to ask him questions but he talked about so many things i had no questions for him.
 
 An intresting fact about the talk was that Red Hat has no pcs here they are all running on a server somewhere else.
 
@@ -63,21 +63,26 @@ To end this wednesday i am here writing my blog in the office area.
 
 ---
 ## Thursday
-![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
+![Red Hat](https://www.postconsumerbrands.com/wp-content/uploads/2024/02/Buy-Now-Page-Header-Image-2048x1365.webp)
 
-**This is the text area where you can enter your blog details for Thursday**.
+We kicked off our day here in red hat with our "stand up" talk with Jen and Pat  and this was followed with the weekly breakfast in the canteen area. I wasnt hungery but there was loads to choose from.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+We then had Sean talk to us about AI as this was todays theme of the day, we disscussed the good with it- the cost effective way of automating tasks and the bad- it is getting rid of peoples jobs
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Types of AI: Generative AI,Machine learning AI and Deep learning AI
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Dominik then talked to us about Instructlab (its like chatgpt) and we helped him with this software he had developed with others. Myself and Alex Created the question when was mariokart 8 released. We then had to put the answer onto this website followed by copied paragraphs of info and we crated other small questions, These were all put up and this now creates the answer for the code domnik made.
+
+In the afternoon Jen got us to do a sustainability presentation on Rain gardens. This was for the purpose of researching about a topic we didnt know about using AI- promt engineering using Perplexity. This AI website was easy to manage and really eay to get answers that are to your needs- in my case very simple, this was easy to get a page worth of information for just myself.
+
+Our last bit of work today was a zoom call with Paulo- he is a f1 fan and wated to create some telemetary about this passion. He used his son playing the f1 game andcreated telemetary of things like speed, engine revs, throttle aplication, brake pressure and G-force. This was very cool that he tied his love for technology and f1 together.
+
+Finally i am writing this blog and am going to the pool room to end thursday.
+
 
 ---
 ## Friday
-![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
+![Red Hat Office](https://nwscdn.com/media/wysiwyg/3kf/Pool-Table.jpg)
 
 **This is the text area where you can enter your blog details for Friday**.
 

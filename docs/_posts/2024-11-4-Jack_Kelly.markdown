@@ -42,30 +42,29 @@ Now it’s around 3:30, and I’m working on the Tuesday section of the blog. I 
 ## Wednesday
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
+## Wednesday
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Today we started off again with another standup. It only lasted 10 mins and right after we went and worked on our blogs back at the desk. We were slaving away for a while and then we went out and played a bit of mario kart before we went of to the first meeting of the day.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+At half 10, we went to the tungsten room where we met peter. He was going to talk to us about how technology has changed in the past couple decades. we also had Kevin who was on a zoom call and david and Jen in the room with us. The talk was interesting and went pretty fast. After this we went back to our desks to work on our blog. we will be meeting jen at Quater to 12 for the next meeting and then we will be on lunch. Before Lunch, we had a challenege to keep a marshmellow as high of the table only using pasta. Obviously my team won both times because we were the best and then we went to lunch. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+After lunch, we went to the bolger suite where Jen explained that we had 2 hours to make a working rollercoaster only using straws,we planned it for a minute and then got to work. The team was me, robert, Oisin and Keelan. We put our heart and souls into this rollercoaster and when everybody else gave up, we kept going. There was people from America who came in to judge our projects but we made their job easy as our one is the only one that worked. We brought the rollercoaster out and put in on display for the office to see in the kitchen
 
 
----
+--- 
 ## Thursday
 ![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
+## Thursday
 
-**This is the text area where you can enter your blog details for Thursday**.
+We started of the morning with another standup where Jen, Pat and Dominique explained that today was AI day and we were also getting breakfast at 10 past 10. Before breakfast, we went back to the office to work on our blogs where I finished of my Wednesday blog and now working on my todays blog. After the blog, we went into the kitchen for a bit of grub as on Thursday they do breakfast. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After breakfast we had Evan come and talk to us about AI and different uses of it. We could tell he was nervous because his mind started to slip. Right after we had a talk with Dominque where he continued with Ai and then got us to make our own AI. Me and Cian were partnered up and we did our one on Spiderman. It took a while as there were loads to do but soon it was lunch and we got to leave.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+After Lunch, Jen had us do a project on sustainability where Cian and i were back at it again to drop another banger. we had an hour to do so and after we sat and watched everybody elses presentations.
+After we went back to work on our blogs for abit and then we would go to listen to someone speak about sports.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+
+
 
 ---
 ## Friday

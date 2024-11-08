@@ -71,42 +71,51 @@ We also spoke with Oxona, who came to Ireland 2 years ago from Ukraine; she gave
 ![Red Hat Tys](https://www.adrianseglobal.com/assets/p1_i4.png)
 
 
-**Wednesday Morning**.
 
-All of us in the TY program met up in one of Red Hat's conference rooms, where we were on video call to Kevin Quinn, the senior technical writer for Red Hat. We were also accompanied by James Mernin.
-and Gen, who is in charge of the TY program.
+**Wednesday Morning**
+
+All of us in the TY program met up in one of Red Hat's conference rooms, where we were on video call to Kevin Quinn, the senior technical writer for Red Hat. We were also accompanied by James Mernin. and Gen, who is in charge of the TY program.
 
 **What we talked about**
-* Present, future, or past of technology
+
+* Present, future, and past of technology
 * Servers
 * Leading global companies
 * Careers in tech
 
-Throughout the session, we talked a lot about how companies set out with a goal, and in a lot of cases, they accomplish more than intended. For example, Amazon originally set out selling books.
-But once they started gaining traction and were in need of servers to run their website and background processes, they realized it was more efficient to let others use their servers.
-during slow parts and times of the day. This is how Amazon Web Services was made. Another example is Nvidia, a company that consisted of making GPUs for gaming and now has a major business in AI.
-and servers as companies globally use their powerful graphics cards.
+Throughout the session, we talked a lot about how companies set out with a goal, and in a lot of cases, they accomplish more than intended. For example, Amazon originally set out selling books. But once they started gaining traction and selling various products, they were in need of servers to run their website and background processes. They realized it was more efficient to let others use their servers. during slow parts and times of the day. This is how Amazon Web Services was made and was another source of income for Amazon.
+
+Another example is Nvidia, a company that consisted of producing GPUs for gaming but now has a major business in AI. and servers, as companies globally are now using their powerful graphics cards. This has resulted in their stock price going through the roof.
 
 **Engineering task**
 
-For the end of the day, we were set with the task of building a roller coaster out of straws and SD tape, and we needed to have a 360-degree loop included. So our team myself, Riona and Jeff, had a promising
-start, but right at the last 20 minutes the project fell apart, but we learned lots about what works and does not work and how to work as a team. We also had visitors who judged all of our projects.
-
+For the end of the day, we were set with the task of building a roller coaster out of straws and tape, and we needed to have a 360-degree loop included. So our team myself, Riona and Jeff, had a promising start, but right at the last 20 minutes the project fell apart, but we learned lots about what works and what doesn't work and how to work as a team. We also had visitors from the states who judged all of our projects.
 
 
 ---
 ## Thursday
-![Red Hat room](https://www.adrianseglobal.com/assets/p1_i4.png)
 
-**This is the text area where you can enter your blog details for Thursday**.
+**Thursday Morning**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Thursday morning we had breakfast with all the staff in Red Hats office. We had an amazing breakfast and later had talk with Sean, an employee at Red Hat. about AI and the different types of AI. We learned how AI is used in everyday life and how companies need massive computers to efficiently generate this type of AI in massive AI computer centers.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+**Types of AI**
+* Generative AI
+* Machine Learning
+* Deep Learning
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+![InstructAi](https://i0.wp.com/livingopensource.org/wp-content/uploads/2024/05/instructlab-banner-1.png?fit=480%2C252&ssl=1)
+
+Later we talked with dominic about InstructLab one of Red Hats open source projects. All of us in the TY program tested this new software by contributing with new information for the AI to learn. This means that when a user asks the AI a question relating to the topics we contributed with , it will answer with the prompts we provided for specific questions
+
+**Thursday Afternoon**
+
+After lunch, we set out producing a rain garden using AI. I was partnered with Oisin, and we set out to produce a rain garden for the Red Hat office in Waterford. Our design consisted of a sloped roof on the main office building with a drain for the runoff rain. This rain is then collected from the drain and then stored in a tank underneath the surface. Once the tank reaches full capacity and the weather turns sunny, a solar panel then sends a message to the tank to allow water to flow to the sprinkler system, and then sprinklers are powered by the solar panel, allowing water to reach the plants during sunny weather.
+
+**Thursday Evening**
+
+For our last gathering, we were on a Zoom call with Paulo, one of Red Hats employees from Italy. A massive Ferrari and Formula One fan who showed us how Red Hats telemetry software could be used to read telemetry data within the Formula One game.
+Paulo showed us a video of him working on a small project with his son by reading the telemetry data coming from the game and telling us various stats like speed, engine temperature, weather, brake force, throttle force, and lap times, all of which use telemetry data. This is the same software that Formula One engineers use in the pit box for live analytics.
 
 ---
 ## Friday
